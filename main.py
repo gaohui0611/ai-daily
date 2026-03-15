@@ -57,7 +57,8 @@ def get_me_from_repo(repo):
 
 
 def is_me(issue, me):
-    return issue.user.login == me
+    # 接受仓库所有者或 github-actions[bot] 创建的 Issue
+    return issue.user.login == me or issue.user.login == "github-actions[bot]"
 
 
 def format_time(time):
