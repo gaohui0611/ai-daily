@@ -4,10 +4,10 @@ on:
   # 手动触发
   workflow_dispatch:
     inputs:
-      generate_news:
-        description: '是否生成新的早报内容'
+      force_generate:
+        description: '强制生成新早报（即使今天已有）'
         required: false
-        default: 'true'
+        default: 'false'
         type: boolean
   # 定时触发 - 每天 UTC 0:00 (北京时间 8:00)
   schedule:
@@ -41,7 +41,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Generate daily news
-        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.generate_news == 'true')
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.force_generate == 'true')
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
