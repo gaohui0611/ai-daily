@@ -3,6 +3,12 @@ name: Generate AI Daily
 on:
   # 手动触发
   workflow_dispatch:
+    inputs:
+      generate_news:
+        description: '是否生成新的早报内容'
+        required: false
+        default: 'true'
+        type: boolean
   # 定时触发 - 每天 UTC 0:00 (北京时间 8:00)
   schedule:
     - cron: '0 0 * * *'
@@ -34,8 +40,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Generate daily news (scheduled only)
-        if: github.event_name == 'schedule'
+      - name: Generate daily news
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.generate_news == 'true')
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
