@@ -3,3 +3,6 @@ feedgen
 marko
 markdown
 lxml
+feedparser
+beautifulsoup4
+requests
