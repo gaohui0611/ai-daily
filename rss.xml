@@ -1,5 +1,466 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 15 Mar 2026 02:36:54 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-3/</link><description>今日要闻 📅 2026-03-15 | 自动抓取自各大 AI 资讯源 1. Rakuten fixes issues twice as fast with Codex 来源: OpenAI Blog 2. Designing AI agents to resist prompt injection 来源: OpenAI Blog 3. Wayfair boosts catalog accuracy and support speed with OpenAI 来源: OpenAI Blog 4. How AI is helping improve heart health in rural Australia 来源: Google AI Blog 5. Gemini in Google Sheets just…</description><content:encoded><![CDATA[<h2>今日要闻</h2>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 15 Mar 2026 02:48:02 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-4/</link><description>2026-03-15 AI早报 📅 2026-03-15 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-15 02:36:52 📰 今日要闻 1. Rakuten fixes issues twice as fast with Codex 属性 内容 📅 时间 2026-03-11 🏷️ 来源 OpenAI Blog 💬 Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks. 2. Designing A…</description><content:encoded><![CDATA[<h1>2026-03-15 AI早报</h1>
+<blockquote>
+<p>📅 2026-03-15 | 自动抓取自各大 AI 资讯源
+⏰ 更新时间: 2026-03-15 02:36:52</p>
+</blockquote>
+<hr>
+<h2>📰 今日要闻</h2>
+<h3>1. <a href="https://openai.com/index/rakuten">Rakuten fixes issues twice as fast with Codex</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-11</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://openai.com/blog">OpenAI Blog</a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.</p>
+</blockquote>
+<hr>
+<h3>2. <a href="https://openai.com/index/designing-agents-to-resist-prompt-injection">Designing AI agents to resist prompt injection</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-11</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://openai.com/blog">OpenAI Blog</a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.</p>
+</blockquote>
+<hr>
+<h3>3. <a href="https://openai.com/index/wayfair">Wayfair boosts catalog accuracy and support speed with OpenAI</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-11</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://openai.com/blog">OpenAI Blog</a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.</p>
+</blockquote>
+<hr>
+<h3>4. <a href="https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/">How AI is helping improve heart health in rural Australia</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-12</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://blog.google/technology/ai/">Google AI Blog</a></td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">John Gillman</td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.</p>
+</blockquote>
+<hr>
+<h3>5. <a href="https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/">Gemini in Google Sheets just achieved state-of-the-art performance.</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-10</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://blog.google/technology/ai/">Google AI Blog</a></td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Eric Birnbaum</td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …</p>
+</blockquote>
+<hr>
+<h3>6. <a href="https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/">How our open-source AI model SpeciesNet is helping to promote wildlife conservation</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-06</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://blog.google/technology/ai/">Google AI Blog</a></td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Dan Morris</td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Photos of animals being identified by the SpeciesNet AI model</p>
+</blockquote>
+<hr>
+<h3>7. <a href="https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval">Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-13</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://huggingface.co/blog">Hugging Face Blog</a></td>
+</tr>
+</tbody></table><hr>
+<h3>8. <a href="https://huggingface.co/blog/storage-buckets">Introducing Storage Buckets on the Hugging Face Hub</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-10</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://huggingface.co/blog">Hugging Face Blog</a></td>
+</tr>
+</tbody></table><hr>
+<h3>9. <a href="https://huggingface.co/blog/async-rl-training-landscape">Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-10</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://huggingface.co/blog">Hugging Face Blog</a></td>
+</tr>
+</tbody></table><hr>
+<h3>10. <a href="https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/">Why physical AI is becoming manufacturing’s next advantage</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-13</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://www.technologyreview.com">MIT Technology Review</a></td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Dayan Rodriguez</td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and i</p>
+</blockquote>
+<hr>
+<h3>11. <a href="https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/">The Download: how AI is used for military targeting, and the Pentagon’s war on Claude</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-13</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://www.technologyreview.com">MIT Technology Review</a></td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Thomas Macaulay</td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Defense official reveals how AI chatbots could be used for targeting decisions  The US military might use generative AI systems to rank targ</p>
+</blockquote>
+<hr>
+<h3>12. <a href="https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/">Future AI chips could be built on glass</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-13</td>
+</tr>
+<tr>
+<td align="left">🏷️ 来源</td>
+<td align="left"><a href="https://www.technologyreview.com">MIT Technology Review</a></td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Jeremy Hsu</td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation</p>
+</blockquote>
+<hr>
+<h2>🔥 开源项目推荐</h2>
+<h3>1. <a href="https://github.com/volcengine/OpenViking">volcengine/OpenViking</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">10,710</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">1,610 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.</p>
+</blockquote>
+<hr>
+<h3>2. <a href="https://github.com/anthropics/claude-plugins-official">anthropics/claude-plugins-official</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">11,362</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">411 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.</p>
+</blockquote>
+<hr>
+<h3>3. <a href="https://github.com/langflow-ai/openrag">langflow-ai/openrag</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">2,738</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">564 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.</p>
+</blockquote>
+<hr>
+<h3>4. <a href="https://github.com/lightpanda-io/browser">lightpanda-io/browser</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Zig</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">17,172</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">2,069 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Lightpanda: the headless browser designed for AI and automation</p>
+</blockquote>
+<hr>
+<h3>5. <a href="https://github.com/msitarzewski/agency-agents">msitarzewski/agency-agents</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Shell</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">43,962</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">4,280 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</p>
+</blockquote>
+<hr>
+<h2>📬 订阅方式</h2>
+<table>
+<thead>
+<tr>
+<th align="left">方式</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">RSS 订阅</td>
+<td align="left"><a href="https://gaohui0611.github.io/ai-daily/rss.xml">订阅</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Issues</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/issues">查看</a></td>
+</tr>
+<tr>
+<td align="left">Markdown 备份</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/tree/master/BACKUP">BACKUP</a></td>
+</tr>
+</tbody></table><hr>
+<h2>📊 数据来源</h2>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">OpenAI Blog</td>
+<td align="left"><a href="https://openai.com/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Google AI Blog</td>
+<td align="left"><a href="https://blog.google/technology/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Anthropic Blog</td>
+<td align="left"><a href="https://www.anthropic.com/news">官网</a></td>
+</tr>
+<tr>
+<td align="left">Hugging Face Blog</td>
+<td align="left"><a href="https://huggingface.co/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">MIT Technology Review</td>
+<td align="left"><a href="https://www.technologyreview.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">Hacker News</td>
+<td align="left"><a href="https://news.ycombinator.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Trending</td>
+<td align="left"><a href="https://github.com/trending">官网</a></td>
+</tr>
+</tbody></table><hr>
+<p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请访问原始链接。</em></p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/4</guid><pubDate>Sun, 15 Mar 2026 02:36:52 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-3/</link><description>今日要闻 📅 2026-03-15 | 自动抓取自各大 AI 资讯源 1. Rakuten fixes issues twice as fast with Codex 来源: OpenAI Blog 2. Designing AI agents to resist prompt injection 来源: OpenAI Blog 3. Wayfair boosts catalog accuracy and support speed with OpenAI 来源: OpenAI Blog 4. How AI is helping improve heart health in rural Australia 来源: Google AI Blog 5. Gemini in Google Sheets just…</description><content:encoded><![CDATA[<h2>今日要闻</h2>
 <blockquote>
 <p>📅 2026-03-15 | 自动抓取自各大 AI 资讯源</p>
 </blockquote>
