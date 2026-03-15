@@ -13,54 +13,110 @@ import requests
 from bs4 import BeautifulSoup
 
 # ============== 配置区域 ==============
-# RSS 订阅源列表
+# RSS 订阅源列表 (名称, RSS链接, 网站链接)
 RSS_SOURCES = [
-    ("OpenAI Blog", "https://openai.com/blog/rss.xml"),
-    ("Google AI Blog", "https://blog.google/technology/ai/rss/"),
-    ("Anthropic Blog", "https://www.anthropic.com/news/rss"),
-    ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
-    ("MIT AI News", "https://www.technologyreview.com/feed/"),
+    ("OpenAI Blog", "https://openai.com/blog/rss.xml", "https://openai.com/blog"),
+    ("Google AI Blog", "https://blog.google/technology/ai/rss/", "https://blog.google/technology/ai/"),
+    ("Anthropic Blog", "https://www.anthropic.com/news/rss", "https://www.anthropic.com/news"),
+    ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml", "https://huggingface.co/blog"),
+    ("MIT Technology Review", "https://www.technologyreview.com/feed/", "https://www.technologyreview.com"),
+    ("Microsoft AI Blog", "https://blogs.microsoft.com/ai/feed/", "https://blogs.microsoft.com/ai/"),
+    ("DeepMind Blog", "https://deepmind.google/discover/blog/rss/", "https://deepmind.google/discover/blog/"),
 ]
 
 # Hacker News AI 相关
 HN_API = "https://hacker-news.firebaseio.com/v0"
-HN_AI_KEYWORDS = ["ai", "gpt", "llm", "openai", "anthropic", "claude", "gemini", "machine learning", "deep learning"]
+HN_AI_KEYWORDS = ["ai", "gpt", "llm", "openai", "anthropic", "claude", "gemini",
+                  "machine learning", "deep learning", "neural", "transformer",
+                  "chatbot", "artificial intelligence", "agi", "langchain"]
 
 # GitHub Trending AI
 GITHUB_TRENDING_URL = "https://github.com/trending?since=daily"
 
 # 资讯数量限制
 MAX_NEWS_PER_SOURCE = 3
-MAX_TOTAL_NEWS = 10
+MAX_TOTAL_NEWS = 12
+MAX_PROJECTS = 5
 # =====================================
 
 
-def fetch_rss_news(source_name: str, feed_url: str) -> List[Dict]:
+def clean_text(text: str) -> str:
+    """清理文本，去除多余空白和 HTML 标签"""
+    if not text:
+        return ""
+    # 去除 HTML 标签
+    text = re.sub(r'<[^>]+>', '', text)
+    # 去除多余空白
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
+
+
+def parse_date(date_str: str) -> str:
+    """解析日期字符串，返回 YYYY-MM-DD 格式"""
+    if not date_str:
+        return datetime.now().strftime("%Y-%m-%d")
+    try:
+        # 尝试解析各种日期格式
+        from dateutil import parser
+        dt = parser.parse(date_str)
+        return dt.strftime("%Y-%m-%d")
+    except Exception:
+        # 如果解析失败，尝试直接截取
+        return date_str[:10] if len(date_str) >= 10 else datetime.now().strftime("%Y-%m-%d")
+
+
+def fetch_rss_news(source_name: str, feed_url: str, site_url: str) -> List[Dict]:
     """
     从 RSS 源抓取新闻
 
     Args:
         source_name: 来源名称
         feed_url: RSS 链接
+        site_url: 网站链接
 
     Returns:
-        新闻列表
+        新闻列表，包含标题、链接、来源、作者、时间、摘要
     """
     news_list = []
     try:
         feed = feedparser.parse(feed_url)
         for entry in feed.entries[:MAX_NEWS_PER_SOURCE]:
+            # 提取作者
+            author = ""
+            if hasattr(entry, 'author'):
+                author = entry.author
+            elif hasattr(entry, 'authors') and entry.authors:
+                author = entry.authors[0].get('name', '')
+
+            # 提取发布时间
+            pub_date = ""
+            if hasattr(entry, 'published'):
+                pub_date = entry.published
+            elif hasattr(entry, 'pubDate'):
+                pub_date = entry.pubDate
+            elif hasattr(entry, 'updated'):
+                pub_date = entry.updated
+
+            # 提取摘要
+            summary = ""
+            if hasattr(entry, 'summary'):
+                summary = clean_text(entry.summary)[:300]
+            elif hasattr(entry, 'description'):
+                summary = clean_text(entry.description)[:300]
+
             news = {
                 "title": entry.get("title", ""),
                 "link": entry.get("link", ""),
                 "source": source_name,
-                "summary": entry.get("summary", "")[:200] if entry.get("summary") else "",
-                "date": entry.get("published", "")[:10] if entry.get("published") else ""
+                "source_url": site_url,
+                "author": author,
+                "date": parse_date(pub_date),
+                "summary": summary
             }
             if news["title"]:
                 news_list.append(news)
     except Exception as e:
-        print(f"抓取 {source_name} 失败: {e}")
+        print(f"❌ 抓取 {source_name} 失败: {e}")
     return news_list
 
 
@@ -89,12 +145,21 @@ def fetch_hn_ai_news() -> List[Dict]:
 
                 # 检查是否包含 AI 关键词
                 if any(kw in title for kw in HN_AI_KEYWORDS):
+                    # 获取作者
+                    author = story.get("by", "")
+                    # 获取时间
+                    timestamp = story.get("time", 0)
+                    pub_date = datetime.fromtimestamp(timestamp).strftime("%Y-%m-%d") if timestamp else ""
+
                     news = {
                         "title": story.get("title", ""),
                         "link": url or f"https://news.ycombinator.com/item?id={story_id}",
                         "source": "Hacker News",
+                        "source_url": "https://news.ycombinator.com",
+                        "author": author,
+                        "date": pub_date,
                         "score": story.get("score", 0),
-                        "date": datetime.fromtimestamp(story.get("time", 0)).strftime("%Y-%m-%d")
+                        "summary": f"HN 评分: {story.get('score', 0)} | 评论: {story.get('descendants', 0)}"
                     }
                     news_list.append(news)
 
@@ -106,7 +171,7 @@ def fetch_hn_ai_news() -> List[Dict]:
         # 按分数排序
         news_list.sort(key=lambda x: x.get("score", 0), reverse=True)
     except Exception as e:
-        print(f"抓取 Hacker News 失败: {e}")
+        print(f"❌ 抓取 Hacker News 失败: {e}")
     return news_list[:MAX_NEWS_PER_SOURCE]
 
 
@@ -119,11 +184,11 @@ def fetch_github_trending_ai() -> List[Dict]:
     """
     projects = []
     try:
-        headers = {"User-Agent": "Mozilla/5.0"}
-        response = requests.get(GITHUB_TRENDING_URL, headers=headers, timeout=10)
+        headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
+        response = requests.get(GITHUB_TRENDING_URL, headers=headers, timeout=15)
         soup = BeautifulSoup(response.text, "html.parser")
 
-        articles = soup.select("article.Box-row")[:10]
+        articles = soup.select("article.Box-row")[:20]
         for article in articles:
             try:
                 repo_link = article.select_one("h2 a")
@@ -136,25 +201,43 @@ def fetch_github_trending_ai() -> List[Dict]:
                 desc_elem = article.select_one("p.col-9")
                 description = desc_elem.get_text(strip=True) if desc_elem else ""
 
+                # 获取语言
+                lang_elem = article.select_one("[itemprop='programmingLanguage']")
+                language = lang_elem.get_text(strip=True) if lang_elem else ""
+
+                # 获取 stars
+                stars_elem = article.select_one("a[href$='/stargazers']")
+                stars = stars_elem.get_text(strip=True) if stars_elem else "0"
+
+                # 获取今日新增 stars
+                today_stars_elem = article.select_one("span.float-sm-right")
+                today_stars = ""
+                if today_stars_elem:
+                    today_stars = today_stars_elem.get_text(strip=True)
+
                 # 检查是否 AI 相关
                 desc_lower = description.lower()
                 name_lower = repo_name.lower()
                 ai_keywords = ["ai", "gpt", "llm", "chatbot", "machine-learning", "deep-learning",
-                               "neural", "transformer", "openai", "claude", "gemini", "langchain"]
+                               "neural", "transformer", "openai", "claude", "gemini", "langchain",
+                               "agent", "rag", "embedding", "vector", "llama", "mistral"]
 
                 if any(kw in desc_lower or kw in name_lower for kw in ai_keywords):
                     projects.append({
                         "title": repo_name,
                         "link": repo_url,
                         "description": description,
+                        "language": language,
+                        "stars": stars,
+                        "today_stars": today_stars,
                         "source": "GitHub Trending"
                     })
             except Exception:
                 continue
 
     except Exception as e:
-        print(f"抓取 GitHub Trending 失败: {e}")
-    return projects[:5]
+        print(f"❌ 抓取 GitHub Trending 失败: {e}")
+    return projects[:MAX_PROJECTS]
 
 
 def generate_daily_content() -> str:
@@ -168,20 +251,23 @@ def generate_daily_content() -> str:
     all_projects = []
 
     # 抓取 RSS 新闻
-    for name, url in RSS_SOURCES:
-        news = fetch_rss_news(name, url)
+    print("📡 开始抓取 RSS 源...")
+    for name, rss_url, site_url in RSS_SOURCES:
+        news = fetch_rss_news(name, rss_url, site_url)
         all_news.extend(news)
-        print(f"✅ {name}: {len(news)} 条新闻")
+        print(f"  ✅ {name}: {len(news)} 条")
 
     # 抓取 Hacker News
+    print("📡 抓取 Hacker News...")
     hn_news = fetch_hn_ai_news()
     all_news.extend(hn_news)
-    print(f"✅ Hacker News: {len(hn_news)} 条新闻")
+    print(f"  ✅ Hacker News: {len(hn_news)} 条")
 
     # 抓取 GitHub Trending
+    print("📡 抓取 GitHub Trending...")
     gh_projects = fetch_github_trending_ai()
     all_projects.extend(gh_projects)
-    print(f"✅ GitHub Trending: {len(gh_projects)} 个项目")
+    print(f"  ✅ GitHub Trending: {len(gh_projects)} 个项目")
 
     # 去重并限制数量
     seen_titles = set()
@@ -196,9 +282,16 @@ def generate_daily_content() -> str:
 
     # 生成 Markdown 内容
     today = datetime.now().strftime("%Y-%m-%d")
-    content = f"""## 今日要闻
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    content = f"""# {today} AI早报
 
 > 📅 {today} | 自动抓取自各大 AI 资讯源
+> ⏰ 更新时间: {now}
+
+---
+
+## 📰 今日要闻
 
 """
 
@@ -208,32 +301,76 @@ def generate_daily_content() -> str:
             title = news.get("title", "")
             link = news.get("link", "")
             source = news.get("source", "")
-            content += f"### {i}. [{title}]({link})\n"
-            content += f"> 来源: {source}\n\n"
+            source_url = news.get("source_url", "")
+            author = news.get("author", "")
+            date = news.get("date", "")
+            summary = news.get("summary", "")
+
+            content += f"### {i}. [{title}]({link})\n\n"
+            content += f"| 属性 | 内容 |\n"
+            content += f"| :--- | :--- |\n"
+            content += f"| 📅 时间 | {date} |\n"
+            content += f"| 🏷️ 来源 | [{source}]({source_url}) |\n"
+            if author:
+                content += f"| 👤 作者 | {author} |\n"
+            content += f"\n"
+            if summary:
+                content += f"> 💬 {summary}\n\n"
+            content += "---\n\n"
     else:
         content += "*今日暂无抓取到新闻*\n\n"
 
     # 添加 GitHub 项目
     if all_projects:
-        content += "## 开源项目推荐\n\n"
+        content += "## 🔥 开源项目推荐\n\n"
         for i, project in enumerate(all_projects, 1):
             title = project.get("title", "")
             link = project.get("link", "")
             desc = project.get("description", "")
-            content += f"### {i}. [{title}]({link})\n"
+            language = project.get("language", "")
+            stars = project.get("stars", "")
+            today_stars = project.get("today_stars", "")
+
+            content += f"### {i}. [{title}]({link})\n\n"
+            content += f"| 属性 | 内容 |\n"
+            content += f"| :--- | :--- |\n"
+            if language:
+                content += f"| 🔧 语言 | {language} |\n"
+            if stars:
+                content += f"| ⭐ Stars | {stars} |\n"
+            if today_stars:
+                content += f"| 📈 今日 | {today_stars} |\n"
+            content += f"\n"
             if desc:
-                content += f"{desc}\n\n"
+                content += f"> 📝 {desc}\n\n"
+            content += "---\n\n"
 
     # 添加页脚
-    content += """---
+    content += f"""## 📬 订阅方式
 
-## 订阅方式
-
-- RSS: [订阅早报](https://gaohui0611.github.io/ai-daily/rss.xml)
-- GitHub: [查看源码](https://github.com/gaohui0611/ai-daily)
+| 方式 | 链接 |
+| :--- | :--- |
+| RSS 订阅 | [订阅](https://gaohui0611.github.io/ai-daily/rss.xml) |
+| GitHub Issues | [查看](https://github.com/gaohui0611/ai-daily/issues) |
+| Markdown 备份 | [BACKUP](https://github.com/gaohui0611/ai-daily/tree/master/BACKUP) |
 
 ---
-*本早报由脚本自动抓取生成，内容仅供参考*
+
+## 📊 数据来源
+
+| 来源 | 链接 |
+| :--- | :--- |
+| OpenAI Blog | [官网](https://openai.com/blog) |
+| Google AI Blog | [官网](https://blog.google/technology/ai/) |
+| Anthropic Blog | [官网](https://www.anthropic.com/news) |
+| Hugging Face Blog | [官网](https://huggingface.co/blog) |
+| MIT Technology Review | [官网](https://www.technologyreview.com) |
+| Hacker News | [官网](https://news.ycombinator.com) |
+| GitHub Trending | [官网](https://github.com/trending) |
+
+---
+
+*本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请访问原始链接。*
 """
 
     return content
