@@ -23,7 +23,7 @@ SITE_DESCRIPTION = "AI 资讯早报，每日更新 AI 领域最新动态"
 AUTHOR_NAME = "GH"
 AUTHOR_EMAIL = "gh@example.com"
 FEED_FILENAME = "rss.xml"
-FEED_ICON_PATH = "static/icon.png"
+FEED_ICON_PATH = "static/icon.svg"
 FEED_ICON_SIZE = 144
 RSS_SUMMARY_MAX_CHARS = 360
 WEBFEEDS_NS = "http://webfeeds.org/rss/1.0"
@@ -264,7 +264,7 @@ def generate_rss_feed(repo, filename, me, site_title, site_description, author_n
     generator.link(href=feed_self_url, rel="self", type="application/rss+xml")
     generator.link(href=pages_site_url)
 
-    feed_icon_url = f"{pages_site_url}icon.png"
+    feed_icon_url = f"{pages_site_url}icon.svg"
     if os.path.exists(FEED_ICON_PATH):
         generator.load_extension("podcast")
         generator.podcast.itunes_image(feed_icon_url)
