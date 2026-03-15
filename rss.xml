@@ -1,5 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 15 Mar 2026 02:01:43 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-2/</link><description>今日要闻 OpenAI 发布 GPT-4.5 OpenAI 今日正式发布 GPT-4.5 模型，在推理能力和多模态理解方面有显著提升。 Google Gemini 2.0 更新 Google 宣布 Gemini 2.0 正式上线，支持更长的上下文窗口和更快的响应速度。 开源项目推荐 Ollama v0.1.30 本地大模型运行工具 Ollama 发布新版本，支持更多开源模型。 LangChain 0.1.0 LangChain 发布 1.0 正式版，提供更稳定的 API 接口。 工具推荐 Claude Code Anthropic 推出的 AI 编程助手，支持终端操作和代码生成。 本早报由 AI 辅助生成，仅供参考</description><content:encoded><![CDATA[<h2>今日要闻</h2>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 15 Mar 2026 02:03:33 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-3/</link><description>今日要闻 📅 2026-03-15 | 自动抓取自各大 AI 资讯源 1. Rakuten fixes issues twice as fast with Codex 来源: OpenAI Blog 2. Designing AI agents to resist prompt injection 来源: OpenAI Blog 3. Wayfair boosts catalog accuracy and support speed with OpenAI 来源: OpenAI Blog 4. How AI is helping improve heart health in rural Australia 来源: Google AI Blog 5. Gemini in Google Sheets just…</description><content:encoded><![CDATA[<h2>今日要闻</h2>
+<blockquote>
+<p>📅 2026-03-15 | 自动抓取自各大 AI 资讯源</p>
+</blockquote>
+<h3>1. <a href="https://openai.com/index/rakuten">Rakuten fixes issues twice as fast with Codex</a></h3>
+<blockquote>
+<p>来源: OpenAI Blog</p>
+</blockquote>
+<h3>2. <a href="https://openai.com/index/designing-agents-to-resist-prompt-injection">Designing AI agents to resist prompt injection</a></h3>
+<blockquote>
+<p>来源: OpenAI Blog</p>
+</blockquote>
+<h3>3. <a href="https://openai.com/index/wayfair">Wayfair boosts catalog accuracy and support speed with OpenAI</a></h3>
+<blockquote>
+<p>来源: OpenAI Blog</p>
+</blockquote>
+<h3>4. <a href="https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/">How AI is helping improve heart health in rural Australia</a></h3>
+<blockquote>
+<p>来源: Google AI Blog</p>
+</blockquote>
+<h3>5. <a href="https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/">Gemini in Google Sheets just achieved state-of-the-art performance.</a></h3>
+<blockquote>
+<p>来源: Google AI Blog</p>
+</blockquote>
+<h3>6. <a href="https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/">How our open-source AI model SpeciesNet is helping to promote wildlife conservation</a></h3>
+<blockquote>
+<p>来源: Google AI Blog</p>
+</blockquote>
+<h3>7. <a href="https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval">Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline</a></h3>
+<blockquote>
+<p>来源: Hugging Face Blog</p>
+</blockquote>
+<h3>8. <a href="https://huggingface.co/blog/storage-buckets">Introducing Storage Buckets on the Hugging Face Hub</a></h3>
+<blockquote>
+<p>来源: Hugging Face Blog</p>
+</blockquote>
+<h3>9. <a href="https://huggingface.co/blog/async-rl-training-landscape">Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries</a></h3>
+<blockquote>
+<p>来源: Hugging Face Blog</p>
+</blockquote>
+<h3>10. <a href="https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/">Why physical AI is becoming manufacturing’s next advantage</a></h3>
+<blockquote>
+<p>来源: MIT AI News</p>
+</blockquote>
+<h2>开源项目推荐</h2>
+<h3>1. <a href="https://github.com/volcengine/OpenViking">volcengine/OpenViking</a></h3>
+<p>OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.</p>
+<h3>2. <a href="https://github.com/anthropics/claude-plugins-official">anthropics/claude-plugins-official</a></h3>
+<p>Official, Anthropic-managed directory of high quality Claude Code Plugins.</p>
+<h3>3. <a href="https://github.com/langflow-ai/openrag">langflow-ai/openrag</a></h3>
+<p>OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.</p>
+<h3>4. <a href="https://github.com/lightpanda-io/browser">lightpanda-io/browser</a></h3>
+<p>Lightpanda: the headless browser designed for AI and automation</p>
+<h3>5. <a href="https://github.com/msitarzewski/agency-agents">msitarzewski/agency-agents</a></h3>
+<p>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</p>
+<hr>
+<h2>订阅方式</h2>
+<ul>
+<li>RSS: <a href="https://gaohui0611.github.io/ai-daily/rss.xml">订阅早报</a></li>
+<li>GitHub: <a href="https://github.com/gaohui0611/ai-daily">查看源码</a></li>
+</ul>
+<hr>
+<p><em>本早报由脚本自动抓取生成，内容仅供参考</em></p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/3</guid><pubDate>Sun, 15 Mar 2026 01:58:39 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-2/</link><description>今日要闻 OpenAI 发布 GPT-4.5 OpenAI 今日正式发布 GPT-4.5 模型，在推理能力和多模态理解方面有显著提升。 Google Gemini 2.0 更新 Google 宣布 Gemini 2.0 正式上线，支持更长的上下文窗口和更快的响应速度。 开源项目推荐 Ollama v0.1.30 本地大模型运行工具 Ollama 发布新版本，支持更多开源模型。 LangChain 0.1.0 LangChain 发布 1.0 正式版，提供更稳定的 API 接口。 工具推荐 Claude Code Anthropic 推出的 AI 编程助手，支持终端操作和代码生成。 本早报由 AI 辅助生成，仅供参考</description><content:encoded><![CDATA[<h2>今日要闻</h2>
 <h3>OpenAI 发布 GPT-4.5</h3>
 <p>OpenAI 今日正式发布 GPT-4.5 模型，在推理能力和多模态理解方面有显著提升。</p>
 <h3>Google Gemini 2.0 更新</h3>
