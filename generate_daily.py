@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup
 # ============== 配置区域 ==============
 # RSS 订阅源列表 (名称, RSS链接, 网站链接)
 RSS_SOURCES = [
+    # === AI 相关 ===
     ("OpenAI Blog", "https://openai.com/blog/rss.xml", "https://openai.com/blog"),
     ("Google AI Blog", "https://blog.google/technology/ai/rss/", "https://blog.google/technology/ai/"),
     ("Anthropic Blog", "https://www.anthropic.com/news/rss", "https://www.anthropic.com/news"),
@@ -22,13 +23,55 @@ RSS_SOURCES = [
     ("MIT Technology Review", "https://www.technologyreview.com/feed/", "https://www.technologyreview.com"),
     ("Microsoft AI Blog", "https://blogs.microsoft.com/ai/feed/", "https://blogs.microsoft.com/ai/"),
     ("DeepMind Blog", "https://deepmind.google/discover/blog/rss/", "https://deepmind.google/discover/blog/"),
+    ("xAI Blog", "https://x.ai/blog/rss.xml", "https://x.ai/blog"),
+
+    # === 程序员技术博客 ===
+    ("阮一峰的网络日志", "https://www.ruanyifeng.com/blog/atom.xml", "https://www.ruanyifeng.com/blog/"),
+    ("美团技术团队", "https://tech.meituan.com/feed/", "https://tech.meituan.com/"),
+    ("字节跳动技术团队", "https://bytes.xtellar.net/feed.xml", "https://bytes.xtellar.net/"),
+    ("酷壳 - 陈皓", "https://coolshell.cn/feed", "https://coolshell.cn/"),
+    ("张鑫旭博客", "https://www.zhangxinxu.com/wordpress/feed/", "https://www.zhangxinxu.com/wordpress/"),
+    ("廖雪峰博客", "https://www.liaoxuefeng.com/feed", "https://www.liaoxuefeng.com/"),
+
+    # === 国际技术博客 ===
+    ("GitHub Blog", "https://github.blog/feed/", "https://github.blog/"),
+    ("Stack Overflow Blog", "https://stackoverflow.blog/feed/", "https://stackoverflow.blog/"),
+    ("Netflix Tech Blog", "https://netflixtechblog.com/feed", "https://netflixtechblog.com/"),
+    ("Uber Engineering", "https://www.uber.com/blog/engineering/rss/", "https://www.uber.com/blog/engineering/"),
+    ("Twitter Engineering", "https://blog.twitter.com/engineering/en_us/blog.rss", "https://blog.twitter.com/engineering/"),
+    ("Dropbox Tech Blog", "https://dropbox.tech/feed", "https://dropbox.tech/"),
+    ("Cloudflare Blog", "https://blog.cloudflare.com/rss/", "https://blog.cloudflare.com/"),
+    ("Vercel Blog", "https://vercel.com/feed", "https://vercel.com/blog"),
+
+    # === 前端开发 ===
+    ("React Blog", "https://react.dev/blog/rss.xml", "https://react.dev/blog"),
+    ("Vue.js Blog", "https://blog.vuejs.org/feed.xml", "https://blog.vuejs.org/"),
+    ("Node.js Blog", "https://nodejs.org/en/feed/blog.xml", "https://nodejs.org/en/blog/"),
+    ("CSS-Tricks", "https://css-tricks.com/feed/", "https://css-tricks.com/"),
+    ("Smashing Magazine", "https://www.smashingmagazine.com/feed/", "https://www.smashingmagazine.com/"),
+
+    # === 后端/DevOps ===
+    ("Docker Blog", "https://www.docker.com/feed/", "https://www.docker.com/blog/"),
+    ("Kubernetes Blog", "https://kubernetes.io/feed.xml", "https://kubernetes.io/blog/"),
+    ("AWS Blog", "https://aws.amazon.com/blogs/aws/feed/", "https://aws.amazon.com/blogs/aws/"),
+    ("Google Cloud Blog", "https://cloud.google.com/feed/", "https://cloud.google.com/blog/"),
 ]
 
-# Hacker News AI 相关
+# Hacker News 关键词 (AI + 程序员相关)
 HN_API = "https://hacker-news.firebaseio.com/v0"
-HN_AI_KEYWORDS = ["ai", "gpt", "llm", "openai", "anthropic", "claude", "gemini",
-                  "machine learning", "deep learning", "neural", "transformer",
-                  "chatbot", "artificial intelligence", "agi", "langchain"]
+HN_KEYWORDS = [
+    # AI 相关
+    "ai", "gpt", "llm", "openai", "anthropic", "claude", "gemini",
+    "machine learning", "deep learning", "neural", "transformer",
+    "chatbot", "artificial intelligence", "agi", "langchain",
+    # 编程语言
+    "python", "javascript", "typescript", "rust", "golang", "java",
+    "react", "vue", "node.js", "deno", "bun",
+    # 开发相关
+    "programming", "developer", "software", "code", "api", "framework",
+    "open source", "github", "git", "docker", "kubernetes", "devops",
+    "database", "sql", "postgres", "redis", "linux", "terminal",
+]
 
 # GitHub Trending AI
 GITHUB_TRENDING_URL = "https://github.com/trending?since=daily"
@@ -143,8 +186,8 @@ def fetch_hn_ai_news() -> List[Dict]:
                 title = story.get("title", "").lower()
                 url = story.get("url", "")
 
-                # 检查是否包含 AI 关键词
-                if any(kw in title for kw in HN_AI_KEYWORDS):
+                # 检查是否包含关键词
+                if any(kw in title for kw in HN_KEYWORDS):
                     # 获取作者
                     author = story.get("by", "")
                     # 获取时间
@@ -358,6 +401,7 @@ def generate_daily_content() -> str:
 
 ## 📊 数据来源
 
+### AI 资讯
 | 来源 | 链接 |
 | :--- | :--- |
 | OpenAI Blog | [官网](https://openai.com/blog) |
@@ -365,6 +409,38 @@ def generate_daily_content() -> str:
 | Anthropic Blog | [官网](https://www.anthropic.com/news) |
 | Hugging Face Blog | [官网](https://huggingface.co/blog) |
 | MIT Technology Review | [官网](https://www.technologyreview.com) |
+| Microsoft AI Blog | [官网](https://blogs.microsoft.com/ai/) |
+| DeepMind Blog | [官网](https://deepmind.google/discover/blog/) |
+
+### 技术博客
+| 来源 | 链接 |
+| :--- | :--- |
+| 阮一峰的网络日志 | [官网](https://www.ruanyifeng.com/blog/) |
+| 美团技术团队 | [官网](https://tech.meituan.com/) |
+| 字节跳动技术团队 | [官网](https://bytes.xtellar.net/) |
+| GitHub Blog | [官网](https://github.blog/) |
+| Stack Overflow Blog | [官网](https://stackoverflow.blog/) |
+| Netflix Tech Blog | [官网](https://netflixtechblog.com/) |
+
+### 前端/框架
+| 来源 | 链接 |
+| :--- | :--- |
+| React Blog | [官网](https://react.dev/blog) |
+| Vue.js Blog | [官网](https://blog.vuejs.org/) |
+| Node.js Blog | [官网](https://nodejs.org/en/blog/) |
+| CSS-Tricks | [官网](https://css-tricks.com/) |
+
+### DevOps/云服务
+| 来源 | 链接 |
+| :--- | :--- |
+| Docker Blog | [官网](https://www.docker.com/blog/) |
+| Kubernetes Blog | [官网](https://kubernetes.io/blog/) |
+| AWS Blog | [官网](https://aws.amazon.com/blogs/aws/) |
+| Cloudflare Blog | [官网](https://blog.cloudflare.com/) |
+
+### 社区
+| 来源 | 链接 |
+| :--- | :--- |
 | Hacker News | [官网](https://news.ycombinator.com) |
 | GitHub Trending | [官网](https://github.com/trending) |
 
