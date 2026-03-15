@@ -239,13 +239,14 @@ def generate_daily_content() -> str:
     return content
 
 
-def create_daily_issue(token: str, repo_name: str) -> Optional[int]:
+def create_daily_issue(token: str, repo_name: str, force: bool = False) -> Optional[int]:
     """
     创建每日早报 Issue
 
     Args:
         token: GitHub Token
         repo_name: 仓库名称
+        force: 是否强制生成（即使今天已有）
 
     Returns:
         Issue 编号或 None
@@ -259,10 +260,21 @@ def create_daily_issue(token: str, repo_name: str) -> Optional[int]:
     g = Github(token)
     repo = g.get_repo(repo_name)
 
+    existing_issue = None
     for issue in repo.get_issues(state="all"):
         if today in issue.title and "AI早报" in issue.title:
-            print(f"⚠️ 今日早报已存在: {issue.html_url}")
-            return None
+            existing_issue = issue
+            break
+
+    if existing_issue and not force:
+        print(f"⚠️ 今日早报已存在: {existing_issue.html_url}")
+        print(f"💡 使用 force=true 强制生成新早报")
+        return None
+
+    # 如果强制生成且已存在，先关闭旧的
+    if existing_issue and force:
+        print(f"🔄 强制模式：关闭旧早报 #{existing_issue.number}")
+        existing_issue.edit(state="closed")
 
     # 生成内容
     content = generate_daily_content()
@@ -277,9 +289,11 @@ def create_daily_issue(token: str, repo_name: str) -> Optional[int]:
 if __name__ == "__main__":
     token = os.environ.get("GITHUB_TOKEN")
     repo_name = os.environ.get("GITHUB_REPOSITORY", "gaohui0611/ai-daily")
+    force = os.environ.get("FORCE_GENERATE", "false").lower() == "true"
 
     if not token:
         print("❌ 请设置 GITHUB_TOKEN 环境变量")
         exit(1)
 
-    create_daily_issue(token, repo_name)
+    print(f"🚀 开始生成早报 (force={force})")
+    create_daily_issue(token, repo_name, force)
