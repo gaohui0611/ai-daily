@@ -254,7 +254,7 @@ class WebfeedsExtension(BaseExtension):
 
 def generate_rss_feed(repo, filename, me, site_title, site_description, author_name, author_email):
     pages_site_url = f"{get_pages_base_url(repo.full_name)}/"
-    feed_self_url = get_repo_pages_feed_url(repo, filename)
+    feed_self_url = get_pages_feed_url(repo.full_name, filename)
     generator = FeedGenerator()
     generator.id(repo.html_url)
     generator.title(site_title)
