@@ -1,5 +1,723 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 17 Mar 2026 01:10:08 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-03-17 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-7/</link><description>2026-03-17 AI早报 📅 2026-03-17 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-17 01:10:05 📰 今日要闻 1. Why Codex Security Doesn’t Include a SAST Report 属性 内容 📅 时间 2026-03-16 🏷️ 来源 OpenAI Blog 💬 A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positive…</description><content:encoded><![CDATA[<h1>2026-03-17 AI早报</h1>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 17 Mar 2026 02:02:47 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-03-17 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-8/</link><description>2026-03-17 AI 早报 📅 2026-03-17 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-17 02:02:44 📰 今日要闻 1. 📰 Why Codex Security Doesn’t Include a SAST Report 属性 内容 📅 时间 2026-03-16 🏷️ 分类 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vuln…</description><content:encoded><![CDATA[<h1>2026-03-17 AI 早报</h1>
+<blockquote>
+<p>📅 2026-03-17 | 自动抓取自各大 AI 资讯源
+⏰ 更新时间：2026-03-17 02:02:44</p>
+</blockquote>
+<hr>
+<h2>📰 今日要闻</h2>
+<h3>1. 📰 Why Codex Security Doesn’t Include a SAST Report</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🔒 安全隐私</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/why-codex-security-doesnt-include-sast"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.</p>
+</blockquote>
+<p><a href="#2">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>2. 📰 Rakuten fixes issues twice as fast with Codex</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-11</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🎨 前端 UI</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/rakuten"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.</p>
+</blockquote>
+<p><a href="#1">← 上一条</a> | <a href="#3">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>3. 📰 Designing AI agents to resist prompt injection</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-11</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 📊 数据分析 🎨 前端 UI</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/designing-agents-to-resist-prompt-injection"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.</p>
+</blockquote>
+<p><a href="#2">← 上一条</a> | <a href="#4">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>4. 📰 How AI is helping improve heart health in rural Australia</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-12</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">John Gillman</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.</p>
+</blockquote>
+<p><a href="#3">← 上一条</a> | <a href="#5">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>5. 📰 Gemini in Google Sheets just achieved state-of-the-art performance.</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-10</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 🚀 产品发布 📊 数据分析</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Eric Birnbaum</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …</p>
+</blockquote>
+<p><a href="#4">← 上一条</a> | <a href="#6">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>6. 📰 How our open-source AI model SpeciesNet is helping to promote wildlife conservation</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-06</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 💻 开发工具</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Dan Morris</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Photos of animals being identified by the SpeciesNet AI model</p>
+</blockquote>
+<p><a href="#5">← 上一条</a> | <a href="#7">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>7. ✨ The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 📊 数据分析</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">✨ 热点</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#6">← 上一条</a> | <a href="#8">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>8. 📰 Introducing Storage Buckets on the Hugging Face Hub</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-10</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/storage-buckets"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#7">← 上一条</a> | <a href="#9">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>9. 📰 Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-10</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/async-rl-training-landscape"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#8">← 上一条</a> | <a href="#10">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>10. 🔥 Where OpenAI’s technology could show up in Iran</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">🔥 重要</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">James O'Donnell</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still</p>
+</blockquote>
+<p><a href="#9">← 上一条</a> | <a href="#11">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>11. 🔥 Nurturing agentic AI beyond the toddler stage</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🔬 研究论文</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">🔥 重要</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Lynn Comp</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health co</p>
+</blockquote>
+<p><a href="#10">← 上一条</a> | <a href="#12">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>12. 📰 The Download: glass chips and “AI-free” logos</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-03-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布 💻 开发工具 🎨 前端 UI</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Thomas Macaulay</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass  Human-made glass is thousands of years old. But it’s now poised to find its way into the AI ch</p>
+</blockquote>
+<p><a href="#11">← 上一条</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h2>🔥 开源项目推荐</h2>
+<h3>1. <a href="https://github.com/thedotmack/claude-mem">thedotmack/claude-mem</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">TypeScript</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">36,888</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">1,045 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.</p>
+</blockquote>
+<hr>
+<h3>2. <a href="https://github.com/Crosstalk-Solutions/project-nomad">Crosstalk-Solutions/project-nomad</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">TypeScript</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">1,862</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">775 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.</p>
+</blockquote>
+<hr>
+<h3>3. <a href="https://github.com/obra/superpowers">obra/superpowers</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Shell</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">88,780</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">3,152 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 An agentic skills framework &amp; software development methodology that works.</p>
+</blockquote>
+<hr>
+<h3>4. <a href="https://github.com/abhigyanpatwari/GitNexus">abhigyanpatwari/GitNexus</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">TypeScript</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">15,660</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">1,860 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration</p>
+</blockquote>
+<hr>
+<h3>5. <a href="https://github.com/lightpanda-io/browser">lightpanda-io/browser</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Zig</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">20,284</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">2,086 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Lightpanda: the headless browser designed for AI and automation</p>
+</blockquote>
+<hr>
+<h2>📬 订阅方式</h2>
+<table>
+<thead>
+<tr>
+<th align="left">方式</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">RSS 订阅</td>
+<td align="left"><a href="https://gaohui0611.github.io/ai-daily/rss.xml">订阅</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Issues</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/issues">查看</a></td>
+</tr>
+<tr>
+<td align="left">Markdown 备份</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/tree/master/BACKUP">BACKUP</a></td>
+</tr>
+</tbody></table><hr>
+<h2>📊 数据来源</h2>
+<h3>AI 资讯</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">OpenAI Blog</td>
+<td align="left"><a href="https://openai.com/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Google AI Blog</td>
+<td align="left"><a href="https://blog.google/technology/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Anthropic Blog</td>
+<td align="left"><a href="https://www.anthropic.com/news">官网</a></td>
+</tr>
+<tr>
+<td align="left">Hugging Face Blog</td>
+<td align="left"><a href="https://huggingface.co/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">MIT Technology Review</td>
+<td align="left"><a href="https://www.technologyreview.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">Microsoft AI Blog</td>
+<td align="left"><a href="https://blogs.microsoft.com/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">DeepMind Blog</td>
+<td align="left"><a href="https://deepmind.google/discover/blog/">官网</a></td>
+</tr>
+</tbody></table><h3>技术博客</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">阮一峰的网络日志</td>
+<td align="left"><a href="https://www.ruanyifeng.com/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">美团技术团队</td>
+<td align="left"><a href="https://tech.meituan.com/">官网</a></td>
+</tr>
+<tr>
+<td align="left">字节跳动技术团队</td>
+<td align="left"><a href="https://bytes.xtellar.net/">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Blog</td>
+<td align="left"><a href="https://github.blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Stack Overflow Blog</td>
+<td align="left"><a href="https://stackoverflow.blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Netflix Tech Blog</td>
+<td align="left"><a href="https://netflixtechblog.com/">官网</a></td>
+</tr>
+</tbody></table><h3>前端/框架</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">React Blog</td>
+<td align="left"><a href="https://react.dev/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Vue.js Blog</td>
+<td align="left"><a href="https://blog.vuejs.org/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Node.js Blog</td>
+<td align="left"><a href="https://nodejs.org/en/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">CSS-Tricks</td>
+<td align="left"><a href="https://css-tricks.com/">官网</a></td>
+</tr>
+</tbody></table><h3>DevOps/云服务</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Docker Blog</td>
+<td align="left"><a href="https://www.docker.com/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Kubernetes Blog</td>
+<td align="left"><a href="https://kubernetes.io/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">AWS Blog</td>
+<td align="left"><a href="https://aws.amazon.com/blogs/aws/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Cloudflare Blog</td>
+<td align="left"><a href="https://blog.cloudflare.com/">官网</a></td>
+</tr>
+</tbody></table><h3>社区</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Hacker News</td>
+<td align="left"><a href="https://news.ycombinator.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Trending</td>
+<td align="left"><a href="https://github.com/trending">官网</a></td>
+</tr>
+</tbody></table><hr>
+<p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/8</guid><pubDate>Tue, 17 Mar 2026 02:02:44 +0000</pubDate></item><item><title>2026-03-17 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-7/</link><description>2026-03-17 AI早报 📅 2026-03-17 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-17 01:10:05 📰 今日要闻 1. Why Codex Security Doesn’t Include a SAST Report 属性 内容 📅 时间 2026-03-16 🏷️ 来源 OpenAI Blog 💬 A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positive…</description><content:encoded><![CDATA[<h1>2026-03-17 AI早报</h1>
 <blockquote>
 <p>📅 2026-03-17 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间: 2026-03-17 01:10:05</p>
