@@ -15,6 +15,7 @@
 
 ## 最近更新
 
+- [2026-03-16 AI早报](https://github.com/gaohui0611/ai-daily/issues/6)--2026-03-16
 - [2026-03-15 AI早报](https://github.com/gaohui0611/ai-daily/issues/5)--2026-03-15
 - [2026-03-15 AI早报](https://github.com/gaohui0611/ai-daily/issues/4)--2026-03-15
 - [2026-03-15 AI早报](https://github.com/gaohui0611/ai-daily/issues/3)--2026-03-15
@@ -24,6 +25,7 @@
 
 <details><summary>点击展开全部</summary>
 
+- [2026-03-16 AI早报](https://github.com/gaohui0611/ai-daily/issues/6)--2026-03-16
 - [2026-03-15 AI早报](https://github.com/gaohui0611/ai-daily/issues/5)--2026-03-15
 - [2026-03-15 AI早报](https://github.com/gaohui0611/ai-daily/issues/4)--2026-03-15
 - [2026-03-15 AI早报](https://github.com/gaohui0611/ai-daily/issues/3)--2026-03-15
