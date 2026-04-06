@@ -1,5 +1,719 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 05 Apr 2026 01:22:22 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-04-05 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-28/</link><description>2026-04-05 AI 早报 📅 2026-04-05 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-05 01:22:14 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-05 AI 早报</h1>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 06 Apr 2026 01:22:32 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-04-06 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-29/</link><description>2026-04-06 AI 早报 📅 2026-04-06 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-06 01:22:26 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-06 AI 早报</h1>
+<blockquote>
+<p>📅 2026-04-06 | 自动抓取自各大 AI 资讯源
+⏰ 更新时间：2026-04-06 01:22:26</p>
+</blockquote>
+<hr>
+<h2>📰 今日要闻</h2>
+<h3>1. 📰 OpenAI acquires TBPN</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-02</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🎨 前端 UI</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/openai-acquires-tbpn"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.</p>
+</blockquote>
+<p><a href="#2">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>2. 📰 Codex now offers more flexible pricing for teams</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-02</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/codex-flexible-pricing-for-teams"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.</p>
+</blockquote>
+<p><a href="#1">← 上一条</a> | <a href="#3">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>3. 📰 Gradient Labs gives every bank customer an AI account manager</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-01</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/gradient-labs"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.</p>
+</blockquote>
+<p><a href="#2">← 上一条</a> | <a href="#4">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>4. 📰 New ways to balance cost and reliability in the Gemini API</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-02</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 🚀 产品发布 💻 开发工具</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Hussein Hassan Harrirou</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Gemini API Dials</p>
+</blockquote>
+<p><a href="#3">← 上一条</a> | <a href="#5">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>5. 📰 Create, edit and share videos at no cost in Google Vids</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-02</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">💻 开发工具 🎨 前端 UI</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">David Nachum</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Google Vids logo surrounded by various video editing UI</p>
+</blockquote>
+<p><a href="#4">← 上一条</a> | <a href="#6">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>6. 📰 We’re creating a new satellite imagery map to help protect Brazil’s forests.</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-01</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.</p>
+</blockquote>
+<p><a href="#5">← 上一条</a> | <a href="#7">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>7. 📰 Welcome Gemma 4: Frontier multimodal intelligence on device</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-02</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/gemma4"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#6">← 上一条</a> | <a href="#8">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>8. 📰 Holo3: Breaking the Computer Use Frontier</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-01</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/Hcompany/holo3"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#7">← 上一条</a> | <a href="#9">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>9. 📰 Falcon Perception</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-01</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/tiiuae/falcon-perception"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#8">← 上一条</a> | <a href="#10">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>10. 🔥 Four things we’d need to put data centers in space</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-03</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布 📊 数据分析</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">🔥 重要</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Tereza Pultarova</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one mil</p>
+</blockquote>
+<p><a href="#9">← 上一条</a> | <a href="#11">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>11. 📰 The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-02</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布 💻 开发工具</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Thomas Macaulay</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in Iran continues, one of the most visible global economic ripple effects has been fo</p>
+</blockquote>
+<p><a href="#10">← 上一条</a> | <a href="#12">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>12. 📰 Fuel prices are soaring. Plastic could be next.</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-02</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Casey Crownhart</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in th</p>
+</blockquote>
+<p><a href="#11">← 上一条</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h2>🔥 开源项目推荐</h2>
+<h3>1. <a href="https://github.com/google-ai-edge/gallery">google-ai-edge/gallery</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Kotlin</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">16,962</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">389 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.</p>
+</blockquote>
+<hr>
+<h3>2. <a href="https://github.com/Blaizzy/mlx-vlm">Blaizzy/mlx-vlm</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">3,935</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">416 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.</p>
+</blockquote>
+<hr>
+<h3>3. <a href="https://github.com/block/goose">block/goose</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Rust</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">37,059</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">882 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</p>
+</blockquote>
+<hr>
+<h3>4. <a href="https://github.com/onyx-dot-app/onyx">onyx-dot-app/onyx</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">25,040</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">998 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Open Source AI Platform - AI Chat with advanced features that works with every LLM</p>
+</blockquote>
+<hr>
+<h3>5. <a href="https://github.com/badlogic/pi-mono">badlogic/pi-mono</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">TypeScript</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">31,926</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">355 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods</p>
+</blockquote>
+<hr>
+<h2>📬 订阅方式</h2>
+<table>
+<thead>
+<tr>
+<th align="left">方式</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">RSS 订阅</td>
+<td align="left"><a href="https://gaohui0611.github.io/ai-daily/rss.xml">订阅</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Issues</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/issues">查看</a></td>
+</tr>
+<tr>
+<td align="left">Markdown 备份</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/tree/master/BACKUP">BACKUP</a></td>
+</tr>
+</tbody></table><hr>
+<h2>📊 数据来源</h2>
+<h3>AI 资讯</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">OpenAI Blog</td>
+<td align="left"><a href="https://openai.com/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Google AI Blog</td>
+<td align="left"><a href="https://blog.google/technology/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Anthropic Blog</td>
+<td align="left"><a href="https://www.anthropic.com/news">官网</a></td>
+</tr>
+<tr>
+<td align="left">Hugging Face Blog</td>
+<td align="left"><a href="https://huggingface.co/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">MIT Technology Review</td>
+<td align="left"><a href="https://www.technologyreview.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">Microsoft AI Blog</td>
+<td align="left"><a href="https://blogs.microsoft.com/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">DeepMind Blog</td>
+<td align="left"><a href="https://deepmind.google/discover/blog/">官网</a></td>
+</tr>
+</tbody></table><h3>技术博客</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">阮一峰的网络日志</td>
+<td align="left"><a href="https://www.ruanyifeng.com/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">美团技术团队</td>
+<td align="left"><a href="https://tech.meituan.com/">官网</a></td>
+</tr>
+<tr>
+<td align="left">字节跳动技术团队</td>
+<td align="left"><a href="https://bytes.xtellar.net/">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Blog</td>
+<td align="left"><a href="https://github.blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Stack Overflow Blog</td>
+<td align="left"><a href="https://stackoverflow.blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Netflix Tech Blog</td>
+<td align="left"><a href="https://netflixtechblog.com/">官网</a></td>
+</tr>
+</tbody></table><h3>前端/框架</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">React Blog</td>
+<td align="left"><a href="https://react.dev/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Vue.js Blog</td>
+<td align="left"><a href="https://blog.vuejs.org/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Node.js Blog</td>
+<td align="left"><a href="https://nodejs.org/en/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">CSS-Tricks</td>
+<td align="left"><a href="https://css-tricks.com/">官网</a></td>
+</tr>
+</tbody></table><h3>DevOps/云服务</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Docker Blog</td>
+<td align="left"><a href="https://www.docker.com/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Kubernetes Blog</td>
+<td align="left"><a href="https://kubernetes.io/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">AWS Blog</td>
+<td align="left"><a href="https://aws.amazon.com/blogs/aws/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Cloudflare Blog</td>
+<td align="left"><a href="https://blog.cloudflare.com/">官网</a></td>
+</tr>
+</tbody></table><h3>社区</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Hacker News</td>
+<td align="left"><a href="https://news.ycombinator.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Trending</td>
+<td align="left"><a href="https://github.com/trending">官网</a></td>
+</tr>
+</tbody></table><hr>
+<p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/29</guid><pubDate>Mon, 06 Apr 2026 01:22:26 +0000</pubDate></item><item><title>2026-04-05 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-28/</link><description>2026-04-05 AI 早报 📅 2026-04-05 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-05 01:22:14 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-05 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-05 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-05 01:22:14</p>
