@@ -1,5 +1,719 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 16 Apr 2026 01:28:26 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-04-16 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-39/</link><description>2026-04-16 AI 早报 📅 2026-04-16 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-16 01:28:17 📰 今日要闻 1. 📰 The next evolution of the Agents SDK 属性 内容 📅 时间 2026-04-15 🏷️ 分类 🤖 AI 模型 💻 开发工具 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents ac…</description><content:encoded><![CDATA[<h1>2026-04-16 AI 早报</h1>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 17 Apr 2026 01:25:55 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-04-17 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-40/</link><description>2026-04-17 AI 早报 📅 2026-04-17 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-17 01:25:44 📰 今日要闻 1. 📰 Codex for (almost) everything 属性 内容 📅 时间 2026-04-16 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-04-17 AI 早报</h1>
+<blockquote>
+<p>📅 2026-04-17 | 自动抓取自各大 AI 资讯源
+⏰ 更新时间：2026-04-17 01:25:44</p>
+</blockquote>
+<hr>
+<h2>📰 今日要闻</h2>
+<h3>1. 📰 Codex for (almost) everything</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/codex-for-almost-everything"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.</p>
+</blockquote>
+<p><a href="#2">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>2. 🔥 Introducing GPT-Rosalind for life sciences research</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 🚀 产品发布 🎨 前端 UI</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">🔥 重要</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/introducing-gpt-rosalind"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.</p>
+</blockquote>
+<p><a href="#1">← 上一条</a> | <a href="#3">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>3. 📰 Accelerating the cyber defense ecosystem that protects us all</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 💻 开发工具 🔒 安全隐私</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/accelerating-cyber-defense-ecosystem"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.</p>
+</blockquote>
+<p><a href="#2">← 上一条</a> | <a href="#4">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>4. 📰 A new way to explore the web with AI Mode in Chrome</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Mike Torres</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/products-and-platforms/products/search/ai-mode-chrome/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 AI Mode in Chrome</p>
+</blockquote>
+<p><a href="#3">← 上一条</a> | <a href="#5">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>5. 📰 New ways to create personalized images in the Gemini app</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 🚀 产品发布</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">David Sharon</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Example images made with Personal Intelligence</p>
+</blockquote>
+<p><a href="#4">← 上一条</a> | <a href="#6">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>6. 📰 Gemini 3.1 Flash TTS: the next generation of expressive AI speech</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-15</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Max Gubin</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Gemini logo next to the text "3.1 Flash TTS", all over colored dots</p>
+</blockquote>
+<p><a href="#5">← 上一条</a> | <a href="#7">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>7. 📰 The PR you would have opened yourself</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/transformers-to-mlx"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#6">← 上一条</a> | <a href="#8">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>8. 📰 Training and Finetuning Multimodal Embedding &amp; Reranker Models with Sentence Transformers</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/train-multimodal-sentence-transformers"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#7">← 上一条</a> | <a href="#9">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>9. 📰 Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-15</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">💻 开发工具</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#8">← 上一条</a> | <a href="#10">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>10. 📰 Making AI operational in constrained public sector environments</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🔒 安全隐私</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">MIT Technology Review Insights</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, pu</p>
+</blockquote>
+<p><a href="#9">← 上一条</a> | <a href="#11">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>11. 📰 Treating enterprise AI as an operating layer</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 🔬 研究论文</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Dr. Wael Salloum</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: wh</p>
+</blockquote>
+<p><a href="#10">← 上一条</a> | <a href="#12">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>12. 📰 The Download: cyberscammers’ banking bypasses, and carbon removal troubles</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-04-16</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布 💻 开发工具 🔒 安全隐私</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Thomas Macaulay</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram Inside a money-laundering center in Cambodia, an employee op</p>
+</blockquote>
+<p><a href="#11">← 上一条</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h2>🔥 开源项目推荐</h2>
+<h3>1. <a href="https://github.com/forrestchang/andrej-karpathy-skills">forrestchang/andrej-karpathy-skills</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">50,003</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">7,959 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</p>
+</blockquote>
+<hr>
+<h3>2. <a href="https://github.com/thedotmack/claude-mem">thedotmack/claude-mem</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">TypeScript</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">59,800</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">1,897 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.</p>
+</blockquote>
+<hr>
+<h3>3. <a href="https://github.com/lsdefine/GenericAgent">lsdefine/GenericAgent</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">2,789</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">872 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption</p>
+</blockquote>
+<hr>
+<h3>4. <a href="https://github.com/vercel-labs/open-agents">vercel-labs/open-agents</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">TypeScript</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">3,215</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">738 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 An open source template for building cloud agents.</p>
+</blockquote>
+<hr>
+<h3>5. <a href="https://github.com/google/magika">google/magika</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">14,776</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">854 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Fast and accurate AI powered file content types detection</p>
+</blockquote>
+<hr>
+<h2>📬 订阅方式</h2>
+<table>
+<thead>
+<tr>
+<th align="left">方式</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">RSS 订阅</td>
+<td align="left"><a href="https://gaohui0611.github.io/ai-daily/rss.xml">订阅</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Issues</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/issues">查看</a></td>
+</tr>
+<tr>
+<td align="left">Markdown 备份</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/tree/master/BACKUP">BACKUP</a></td>
+</tr>
+</tbody></table><hr>
+<h2>📊 数据来源</h2>
+<h3>AI 资讯</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">OpenAI Blog</td>
+<td align="left"><a href="https://openai.com/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Google AI Blog</td>
+<td align="left"><a href="https://blog.google/technology/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Anthropic Blog</td>
+<td align="left"><a href="https://www.anthropic.com/news">官网</a></td>
+</tr>
+<tr>
+<td align="left">Hugging Face Blog</td>
+<td align="left"><a href="https://huggingface.co/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">MIT Technology Review</td>
+<td align="left"><a href="https://www.technologyreview.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">Microsoft AI Blog</td>
+<td align="left"><a href="https://blogs.microsoft.com/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">DeepMind Blog</td>
+<td align="left"><a href="https://deepmind.google/discover/blog/">官网</a></td>
+</tr>
+</tbody></table><h3>技术博客</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">阮一峰的网络日志</td>
+<td align="left"><a href="https://www.ruanyifeng.com/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">美团技术团队</td>
+<td align="left"><a href="https://tech.meituan.com/">官网</a></td>
+</tr>
+<tr>
+<td align="left">字节跳动技术团队</td>
+<td align="left"><a href="https://bytes.xtellar.net/">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Blog</td>
+<td align="left"><a href="https://github.blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Stack Overflow Blog</td>
+<td align="left"><a href="https://stackoverflow.blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Netflix Tech Blog</td>
+<td align="left"><a href="https://netflixtechblog.com/">官网</a></td>
+</tr>
+</tbody></table><h3>前端/框架</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">React Blog</td>
+<td align="left"><a href="https://react.dev/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Vue.js Blog</td>
+<td align="left"><a href="https://blog.vuejs.org/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Node.js Blog</td>
+<td align="left"><a href="https://nodejs.org/en/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">CSS-Tricks</td>
+<td align="left"><a href="https://css-tricks.com/">官网</a></td>
+</tr>
+</tbody></table><h3>DevOps/云服务</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Docker Blog</td>
+<td align="left"><a href="https://www.docker.com/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Kubernetes Blog</td>
+<td align="left"><a href="https://kubernetes.io/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">AWS Blog</td>
+<td align="left"><a href="https://aws.amazon.com/blogs/aws/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Cloudflare Blog</td>
+<td align="left"><a href="https://blog.cloudflare.com/">官网</a></td>
+</tr>
+</tbody></table><h3>社区</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Hacker News</td>
+<td align="left"><a href="https://news.ycombinator.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Trending</td>
+<td align="left"><a href="https://github.com/trending">官网</a></td>
+</tr>
+</tbody></table><hr>
+<p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/40</guid><pubDate>Fri, 17 Apr 2026 01:25:44 +0000</pubDate></item><item><title>2026-04-16 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-39/</link><description>2026-04-16 AI 早报 📅 2026-04-16 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-16 01:28:17 📰 今日要闻 1. 📰 The next evolution of the Agents SDK 属性 内容 📅 时间 2026-04-15 🏷️ 分类 🤖 AI 模型 💻 开发工具 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents ac…</description><content:encoded><![CDATA[<h1>2026-04-16 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-16 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-16 01:28:17</p>
