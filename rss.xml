@@ -1,5 +1,711 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 24 May 2026 02:07:28 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-05-24 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-77/</link><description>2026-05-24 AI 早报 📅 2026-05-24 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-24 02:07:07 📰 今日要闻 1. 📰 OpenAI named a Leader in enterprise coding agents by Gartner 属性 内容 📅 时间 2026-05-22 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and e…</description><content:encoded><![CDATA[<h1>2026-05-24 AI 早报</h1>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 25 May 2026 02:15:36 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-05-25 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-78/</link><description>2026-05-25 AI 早报 📅 2026-05-25 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-25 02:15:14 📰 今日要闻 1. 📰 OpenAI named a Leader in enterprise coding agents by Gartner 属性 内容 📅 时间 2026-05-22 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and e…</description><content:encoded><![CDATA[<h1>2026-05-25 AI 早报</h1>
+<blockquote>
+<p>📅 2026-05-25 | 自动抓取自各大 AI 资讯源
+⏰ 更新时间：2026-05-25 02:15:14</p>
+</blockquote>
+<hr>
+<h2>📰 今日要闻</h2>
+<h3>1. 📰 OpenAI named a Leader in enterprise coding agents by Gartner</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-22</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/gartner-2026-agentic-coding-leader"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.</p>
+</blockquote>
+<p><a href="#2">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>2. 📰 How Virgin Atlantic ships faster with Codex</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-22</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📱 移动开发</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/virgin-atlantic"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.</p>
+</blockquote>
+<p><a href="#1">← 上一条</a> | <a href="#3">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>3. 📰 AdventHealth advances whole-person care with OpenAI</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-21</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/adventhealth"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.</p>
+</blockquote>
+<p><a href="#2">← 上一条</a> | <a href="#4">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>4. 📰 Catch up on the Dialogues stage at Google I/O 2026.</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-22</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage</p>
+</blockquote>
+<p><a href="#3">← 上一条</a> | <a href="#5">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>5. ⭐ We’re announcing new community investments in Missouri.</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-20</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布 🎨 前端 UI</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">⭐ 新品</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 We’re helping build the state’s next-generation workforce and investing in energy programs.</p>
+</blockquote>
+<p><a href="#4">← 上一条</a> | <a href="#6">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>6. 📰 100 things we announced at I/O 2026</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-20</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 🚀 产品发布</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Keyword Team</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Image with the words "Ready, Set, I/O" and a colorful Gemini logo</p>
+</blockquote>
+<p><a href="#5">← 上一条</a> | <a href="#7">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>7. 📰 Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-23</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#6">← 上一条</a> | <a href="#8">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>8. 📰 Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-22</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#7">← 上一条</a> | <a href="#9">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>9. 📰 OlmoEarth v1.1: A more efficient family of Earth observation models</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-19</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/allenai/olmoearth-v1-1"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#8">← 上一条</a> | <a href="#10">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>10. 📰 The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-22</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 🚀 产品发布 💻 开发工具</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Thomas Macaulay</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claud</p>
+</blockquote>
+<p><a href="#9">← 上一条</a> | <a href="#11">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>11. 📰 Google I/O showed how the path for AI-driven science is shifting</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-22</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">💻 开发工具 ⚙️ 后端架构</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Grace Huckins</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t</p>
+</blockquote>
+<p><a href="#10">← 上一条</a> | <a href="#12">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>12. 📰 The Enhanced Games fit right in with the rest of 2026’s longevity vibes</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-22</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Jessica Hamzelou</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” The games’ organizers </p>
+</blockquote>
+<p><a href="#11">← 上一条</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h2>🔥 开源项目推荐</h2>
+<h3>1. <a href="https://github.com/Lum1104/Understand-Anything">Lum1104/Understand-Anything</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">TypeScript</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">26,342</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">3,999 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</p>
+</blockquote>
+<hr>
+<h3>2. <a href="https://github.com/rohitg00/ai-engineering-from-scratch">rohitg00/ai-engineering-from-scratch</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">16,237</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">1,853 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Learn it. Build it. Ship it for others.</p>
+</blockquote>
+<hr>
+<h3>3. <a href="https://github.com/anthropics/claude-plugins-official">anthropics/claude-plugins-official</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">27,286</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">1,173 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.</p>
+</blockquote>
+<hr>
+<h3>4. <a href="https://github.com/anthropics/knowledge-work-plugins">anthropics/knowledge-work-plugins</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">14,120</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">550 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</p>
+</blockquote>
+<hr>
+<h3>5. <a href="https://github.com/multica-ai/andrej-karpathy-skills">multica-ai/andrej-karpathy-skills</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">152,296</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">2,551 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</p>
+</blockquote>
+<hr>
+<h2>📬 订阅方式</h2>
+<table>
+<thead>
+<tr>
+<th align="left">方式</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">RSS 订阅</td>
+<td align="left"><a href="https://gaohui0611.github.io/ai-daily/rss.xml">订阅</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Issues</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/issues">查看</a></td>
+</tr>
+<tr>
+<td align="left">Markdown 备份</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/tree/master/BACKUP">BACKUP</a></td>
+</tr>
+</tbody></table><hr>
+<h2>📊 数据来源</h2>
+<h3>AI 资讯</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">OpenAI Blog</td>
+<td align="left"><a href="https://openai.com/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Google AI Blog</td>
+<td align="left"><a href="https://blog.google/technology/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Anthropic Blog</td>
+<td align="left"><a href="https://www.anthropic.com/news">官网</a></td>
+</tr>
+<tr>
+<td align="left">Hugging Face Blog</td>
+<td align="left"><a href="https://huggingface.co/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">MIT Technology Review</td>
+<td align="left"><a href="https://www.technologyreview.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">Microsoft AI Blog</td>
+<td align="left"><a href="https://blogs.microsoft.com/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">DeepMind Blog</td>
+<td align="left"><a href="https://deepmind.google/discover/blog/">官网</a></td>
+</tr>
+</tbody></table><h3>技术博客</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">阮一峰的网络日志</td>
+<td align="left"><a href="https://www.ruanyifeng.com/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">美团技术团队</td>
+<td align="left"><a href="https://tech.meituan.com/">官网</a></td>
+</tr>
+<tr>
+<td align="left">字节跳动技术团队</td>
+<td align="left"><a href="https://bytes.xtellar.net/">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Blog</td>
+<td align="left"><a href="https://github.blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Stack Overflow Blog</td>
+<td align="left"><a href="https://stackoverflow.blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Netflix Tech Blog</td>
+<td align="left"><a href="https://netflixtechblog.com/">官网</a></td>
+</tr>
+</tbody></table><h3>前端/框架</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">React Blog</td>
+<td align="left"><a href="https://react.dev/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Vue.js Blog</td>
+<td align="left"><a href="https://blog.vuejs.org/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Node.js Blog</td>
+<td align="left"><a href="https://nodejs.org/en/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">CSS-Tricks</td>
+<td align="left"><a href="https://css-tricks.com/">官网</a></td>
+</tr>
+</tbody></table><h3>DevOps/云服务</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Docker Blog</td>
+<td align="left"><a href="https://www.docker.com/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Kubernetes Blog</td>
+<td align="left"><a href="https://kubernetes.io/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">AWS Blog</td>
+<td align="left"><a href="https://aws.amazon.com/blogs/aws/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Cloudflare Blog</td>
+<td align="left"><a href="https://blog.cloudflare.com/">官网</a></td>
+</tr>
+</tbody></table><h3>社区</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Hacker News</td>
+<td align="left"><a href="https://news.ycombinator.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Trending</td>
+<td align="left"><a href="https://github.com/trending">官网</a></td>
+</tr>
+</tbody></table><hr>
+<p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/78</guid><pubDate>Mon, 25 May 2026 02:15:15 +0000</pubDate></item><item><title>2026-05-24 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-77/</link><description>2026-05-24 AI 早报 📅 2026-05-24 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-24 02:07:07 📰 今日要闻 1. 📰 OpenAI named a Leader in enterprise coding agents by Gartner 属性 内容 📅 时间 2026-05-22 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and e…</description><content:encoded><![CDATA[<h1>2026-05-24 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-24 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-24 02:07:07</p>
