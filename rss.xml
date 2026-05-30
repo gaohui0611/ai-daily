@@ -1,5 +1,719 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 29 May 2026 02:05:05 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-05-29 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-82/</link><description>2026-05-29 AI 早报 📅 2026-05-29 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-29 02:04:51 📰 今日要闻 1. 📰 How Endava builds an agentic organization with Codex 属性 内容 📅 时间 2026-05-28 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to…</description><content:encoded><![CDATA[<h1>2026-05-29 AI 早报</h1>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 30 May 2026 01:59:58 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-05-30 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-83/</link><description>2026-05-30 AI 早报 📅 2026-05-30 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-30 01:59:47 📰 今日要闻 1. 📰 Boston Children’s uses AI to unlock new diagnoses 属性 内容 📅 时间 2026-05-29 🏷️ 分类 🚀 产品发布 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease…</description><content:encoded><![CDATA[<h1>2026-05-30 AI 早报</h1>
+<blockquote>
+<p>📅 2026-05-30 | 自动抓取自各大 AI 资讯源
+⏰ 更新时间：2026-05-30 01:59:47</p>
+</blockquote>
+<hr>
+<h2>📰 今日要闻</h2>
+<h3>1. 📰 Boston Children’s uses AI to unlock new diagnoses</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-29</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/boston-childrens-hospital"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.</p>
+</blockquote>
+<p><a href="#2">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>2. 📰 How Braintrust turns customer requests into code with Codex</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-29</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 🔬 研究论文</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/braintrust"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</p>
+</blockquote>
+<p><a href="#1">← 上一条</a> | <a href="#3">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>3. 🔥 Strengthening societal resilience with Rosalind Biodefense</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-29</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 🚀 产品发布</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">🔥 重要</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.</p>
+</blockquote>
+<p><a href="#2">← 上一条</a> | <a href="#4">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>4. 📰 Take our I/O 2026 quiz, vibe coded in Google AI Studio.</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-29</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布 🎨 前端 UI</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Zahra Thompson</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.</p>
+</blockquote>
+<p><a href="#3">← 上一条</a> | <a href="#5">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>5. 📰 9 demos of Gemini Omni and Gemini 3.5 in action</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-29</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Zahra Thompson</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Gemini Omni &amp; Gemini 3.5 hero</p>
+</blockquote>
+<p><a href="#4">← 上一条</a> | <a href="#6">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>6. 📰 Check out real-life AI prototypes from the Futures Lab.</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-29</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.</p>
+</blockquote>
+<p><a href="#5">← 上一条</a> | <a href="#7">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>7. 📰 Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-29</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">💻 开发工具 🎨 前端 UI</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/torch-profiler"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#6">← 上一条</a> | <a href="#8">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>8. ✨ ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-27</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🤖 AI 模型 🔬 研究论文</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">✨ 热点</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/ibm-research/itbench-aa"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#7">← 上一条</a> | <a href="#9">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>9. 📰 Reachy Mini goes fully local</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-27</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">📰 综合资讯</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://huggingface.co/blog/local-reachy-mini-conversation"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><p><a href="#8">← 上一条</a> | <a href="#10">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>10. 📰 The Download: unlocking lithium and controlling Ebola</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-29</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布 💻 开发工具</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Thomas Macaulay</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’</p>
+</blockquote>
+<p><a href="#9">← 上一条</a> | <a href="#11">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>11. ⭐ The deadly Ebola outbreak is proving difficult to control</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-29</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">💻 开发工具 ⚙️ 后端架构 🔬 研究论文</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">⭐ 新品</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Jessica Hamzelou</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo viru</p>
+</blockquote>
+<p><a href="#10">← 上一条</a> | <a href="#12">下一条 →</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h3>12. 📰 How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment</h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">📅 时间</td>
+<td align="left">2026-05-29</td>
+</tr>
+<tr>
+<td align="left">🏷️ 分类</td>
+<td align="left">🚀 产品发布</td>
+</tr>
+<tr>
+<td align="left">📊 重要性</td>
+<td align="left">📰 资讯</td>
+</tr>
+<tr>
+<td align="left">⏱️ 阅读</td>
+<td align="left">&lt; 1 分钟</td>
+</tr>
+<tr>
+<td align="left">👤 作者</td>
+<td align="left">Séamus Finn, Susan Francois</td>
+</tr>
+<tr>
+<td align="left">🔗 原文</td>
+<td align="left"><a href="https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"><strong>📖 查看原始文章 →</strong></a></td>
+</tr>
+</tbody></table><blockquote>
+<p>💬 Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente</p>
+</blockquote>
+<p><a href="#11">← 上一条</a> | <a href="#-%E4%BB%8A%E6%97%A5%E8%A6%81%E9%97%BB">↑ 返回顶部</a></p>
+<hr>
+<h2>🔥 开源项目推荐</h2>
+<h3>1. <a href="https://github.com/harry0703/MoneyPrinterTurbo">harry0703/MoneyPrinterTurbo</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">69,753</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">3,567 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.</p>
+</blockquote>
+<hr>
+<h3>2. <a href="https://github.com/EveryInc/compound-engineering-plugin">EveryInc/compound-engineering-plugin</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">TypeScript</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">18,152</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">353 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more</p>
+</blockquote>
+<hr>
+<h3>3. <a href="https://github.com/twentyhq/twenty">twentyhq/twenty</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">TypeScript</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">48,426</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">578 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 The open alternative to Salesforce, designed for AI.</p>
+</blockquote>
+<hr>
+<h3>4. <a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Python</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">127,900</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">395 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</p>
+</blockquote>
+<hr>
+<h3>5. <a href="https://github.com/Leonxlnx/taste-skill">Leonxlnx/taste-skill</a></h3>
+<table>
+<thead>
+<tr>
+<th align="left">属性</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">🔧 语言</td>
+<td align="left">Shell</td>
+</tr>
+<tr>
+<td align="left">⭐ Stars</td>
+<td align="left">28,183</td>
+</tr>
+<tr>
+<td align="left">📈 今日</td>
+<td align="left">2,062 stars today</td>
+</tr>
+</tbody></table><blockquote>
+<p>📝 Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop</p>
+</blockquote>
+<hr>
+<h2>📬 订阅方式</h2>
+<table>
+<thead>
+<tr>
+<th align="left">方式</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">RSS 订阅</td>
+<td align="left"><a href="https://gaohui0611.github.io/ai-daily/rss.xml">订阅</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Issues</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/issues">查看</a></td>
+</tr>
+<tr>
+<td align="left">Markdown 备份</td>
+<td align="left"><a href="https://github.com/gaohui0611/ai-daily/tree/master/BACKUP">BACKUP</a></td>
+</tr>
+</tbody></table><hr>
+<h2>📊 数据来源</h2>
+<h3>AI 资讯</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">OpenAI Blog</td>
+<td align="left"><a href="https://openai.com/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Google AI Blog</td>
+<td align="left"><a href="https://blog.google/technology/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Anthropic Blog</td>
+<td align="left"><a href="https://www.anthropic.com/news">官网</a></td>
+</tr>
+<tr>
+<td align="left">Hugging Face Blog</td>
+<td align="left"><a href="https://huggingface.co/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">MIT Technology Review</td>
+<td align="left"><a href="https://www.technologyreview.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">Microsoft AI Blog</td>
+<td align="left"><a href="https://blogs.microsoft.com/ai/">官网</a></td>
+</tr>
+<tr>
+<td align="left">DeepMind Blog</td>
+<td align="left"><a href="https://deepmind.google/discover/blog/">官网</a></td>
+</tr>
+</tbody></table><h3>技术博客</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">阮一峰的网络日志</td>
+<td align="left"><a href="https://www.ruanyifeng.com/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">美团技术团队</td>
+<td align="left"><a href="https://tech.meituan.com/">官网</a></td>
+</tr>
+<tr>
+<td align="left">字节跳动技术团队</td>
+<td align="left"><a href="https://bytes.xtellar.net/">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Blog</td>
+<td align="left"><a href="https://github.blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Stack Overflow Blog</td>
+<td align="left"><a href="https://stackoverflow.blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Netflix Tech Blog</td>
+<td align="left"><a href="https://netflixtechblog.com/">官网</a></td>
+</tr>
+</tbody></table><h3>前端/框架</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">React Blog</td>
+<td align="left"><a href="https://react.dev/blog">官网</a></td>
+</tr>
+<tr>
+<td align="left">Vue.js Blog</td>
+<td align="left"><a href="https://blog.vuejs.org/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Node.js Blog</td>
+<td align="left"><a href="https://nodejs.org/en/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">CSS-Tricks</td>
+<td align="left"><a href="https://css-tricks.com/">官网</a></td>
+</tr>
+</tbody></table><h3>DevOps/云服务</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Docker Blog</td>
+<td align="left"><a href="https://www.docker.com/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Kubernetes Blog</td>
+<td align="left"><a href="https://kubernetes.io/blog/">官网</a></td>
+</tr>
+<tr>
+<td align="left">AWS Blog</td>
+<td align="left"><a href="https://aws.amazon.com/blogs/aws/">官网</a></td>
+</tr>
+<tr>
+<td align="left">Cloudflare Blog</td>
+<td align="left"><a href="https://blog.cloudflare.com/">官网</a></td>
+</tr>
+</tbody></table><h3>社区</h3>
+<table>
+<thead>
+<tr>
+<th align="left">来源</th>
+<th align="left">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Hacker News</td>
+<td align="left"><a href="https://news.ycombinator.com">官网</a></td>
+</tr>
+<tr>
+<td align="left">GitHub Trending</td>
+<td align="left"><a href="https://github.com/trending">官网</a></td>
+</tr>
+</tbody></table><hr>
+<p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/83</guid><pubDate>Sat, 30 May 2026 01:59:47 +0000</pubDate></item><item><title>2026-05-29 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-82/</link><description>2026-05-29 AI 早报 📅 2026-05-29 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-29 02:04:51 📰 今日要闻 1. 📰 How Endava builds an agentic organization with Codex 属性 内容 📅 时间 2026-05-28 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to…</description><content:encoded><![CDATA[<h1>2026-05-29 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-29 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-29 02:04:51</p>
