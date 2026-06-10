@@ -292,7 +292,7 @@ def generate_rss_feed(repo, filename, me, site_title, site_description, author_n
         issue_pages_url = get_repo_pages_issue_url(repo, issue.number)
         item = generator.add_entry(order="append")
         item.id(issue.html_url)
-        item.link(href=issue_pages_url)
+        item.link(href=issue.html_url)
         item.title(issue.title)
         item.author({"name": author_name})
         item.published(issue.created_at.strftime("%Y-%m-%dT%H:%M:%SZ"))
