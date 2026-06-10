@@ -15,6 +15,7 @@
 
 ## 最近更新
 
+- [2026-06-10 AI 早报](https://github.com/gaohui0611/ai-daily/issues/94)--2026-06-10
 - [2026-06-09 AI 早报](https://github.com/gaohui0611/ai-daily/issues/93)--2026-06-09
 - [2026-06-08 AI 早报](https://github.com/gaohui0611/ai-daily/issues/92)--2026-06-08
 - [2026-06-07 AI 早报](https://github.com/gaohui0611/ai-daily/issues/91)--2026-06-07
@@ -24,11 +25,11 @@
 - [2026-06-03 AI 早报](https://github.com/gaohui0611/ai-daily/issues/87)--2026-06-03
 - [2026-06-02 AI 早报](https://github.com/gaohui0611/ai-daily/issues/86)--2026-06-02
 - [2026-06-01 AI 早报](https://github.com/gaohui0611/ai-daily/issues/85)--2026-06-01
-- [2026-05-31 AI 早报](https://github.com/gaohui0611/ai-daily/issues/84)--2026-05-31
 ## 全部早报
 
 <details><summary>点击展开全部</summary>
 
+- [2026-06-10 AI 早报](https://github.com/gaohui0611/ai-daily/issues/94)--2026-06-10
 - [2026-06-09 AI 早报](https://github.com/gaohui0611/ai-daily/issues/93)--2026-06-09
 - [2026-06-08 AI 早报](https://github.com/gaohui0611/ai-daily/issues/92)--2026-06-08
 - [2026-06-07 AI 早报](https://github.com/gaohui0611/ai-daily/issues/91)--2026-06-07

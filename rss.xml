@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 10 Jun 2026 02:13:18 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-06-10 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-94/</link><description>2026-06-10 AI 早报 📅 2026-06-10 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-10 02:13:03 📰 今日要闻 1. 📰 How engineers at Nextdoor use Codex to build without limits 属性 内容 📅 时间 2026-06-09 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on…</description><content:encoded><![CDATA[<h1>2026-06-10 AI 早报</h1>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><description>AI 资讯早报，每日更新 AI 领域最新动态</description><atom:link href="https://gaohui0611.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gaohui0611.github.io/ai-daily/icon.svg</url><title>GH AI早报</title><link>https://gaohui0611.github.io/ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 10 Jun 2026 09:23:26 +0000</lastBuildDate><webfeeds:icon>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:icon><webfeeds:logo>https://gaohui0611.github.io/ai-daily/icon.svg</webfeeds:logo><item><title>2026-06-10 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/94</link><description>2026-06-10 AI 早报 📅 2026-06-10 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-10 02:13:03 📰 今日要闻 1. 📰 How engineers at Nextdoor use Codex to build without limits 属性 内容 📅 时间 2026-06-09 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on…</description><content:encoded><![CDATA[<h1>2026-06-10 AI 早报</h1>
 <blockquote>
 <p>📅 2026-06-10 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-06-10 02:13:03</p>
@@ -713,7 +713,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/94</guid><pubDate>Wed, 10 Jun 2026 02:13:03 +0000</pubDate></item><item><title>2026-06-09 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-93/</link><description>2026-06-09 AI 早报 📅 2026-06-09 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-09 01:59:56 📰 今日要闻 1. 📰 Confidential submission of draft S-1 to the SEC 属性 内容 📅 时间 2026-06-08 🏷️ 分类 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action. 下一条 → | ↑ 返回顶部 2. 📰 Built to benefit…</description><content:encoded><![CDATA[<h1>2026-06-09 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/94</guid><pubDate>Wed, 10 Jun 2026 02:13:03 +0000</pubDate></item><item><title>2026-06-09 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/93</link><description>2026-06-09 AI 早报 📅 2026-06-09 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-09 01:59:56 📰 今日要闻 1. 📰 Confidential submission of draft S-1 to the SEC 属性 内容 📅 时间 2026-06-08 🏷️ 分类 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action. 下一条 → | ↑ 返回顶部 2. 📰 Built to benefit…</description><content:encoded><![CDATA[<h1>2026-06-09 AI 早报</h1>
 <blockquote>
 <p>📅 2026-06-09 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-06-09 01:59:56</p>
@@ -1431,7 +1431,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/93</guid><pubDate>Tue, 09 Jun 2026 01:59:56 +0000</pubDate></item><item><title>2026-06-08 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-92/</link><description>2026-06-08 AI 早报 📅 2026-06-08 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-08 02:35:51 📰 今日要闻 1. 📰 How Endava is redesigning software delivery around AI agents 属性 内容 📅 时间 2026-06-04 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and bu…</description><content:encoded><![CDATA[<h1>2026-06-08 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/93</guid><pubDate>Tue, 09 Jun 2026 01:59:56 +0000</pubDate></item><item><title>2026-06-08 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/92</link><description>2026-06-08 AI 早报 📅 2026-06-08 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-08 02:35:51 📰 今日要闻 1. 📰 How Endava is redesigning software delivery around AI agents 属性 内容 📅 时间 2026-06-04 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and bu…</description><content:encoded><![CDATA[<h1>2026-06-08 AI 早报</h1>
 <blockquote>
 <p>📅 2026-06-08 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-06-08 02:35:51</p>
@@ -2149,7 +2149,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/92</guid><pubDate>Mon, 08 Jun 2026 02:35:51 +0000</pubDate></item><item><title>2026-06-07 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-91/</link><description>2026-06-07 AI 早报 📅 2026-06-07 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-07 02:31:37 📰 今日要闻 1. 📰 How Endava is redesigning software delivery around AI agents 属性 内容 📅 时间 2026-06-04 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and bu…</description><content:encoded><![CDATA[<h1>2026-06-07 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/92</guid><pubDate>Mon, 08 Jun 2026 02:35:51 +0000</pubDate></item><item><title>2026-06-07 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/91</link><description>2026-06-07 AI 早报 📅 2026-06-07 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-07 02:31:37 📰 今日要闻 1. 📰 How Endava is redesigning software delivery around AI agents 属性 内容 📅 时间 2026-06-04 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and bu…</description><content:encoded><![CDATA[<h1>2026-06-07 AI 早报</h1>
 <blockquote>
 <p>📅 2026-06-07 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-06-07 02:31:37</p>
@@ -2867,7 +2867,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/91</guid><pubDate>Sun, 07 Jun 2026 02:31:37 +0000</pubDate></item><item><title>2026-06-06 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-90/</link><description>2026-06-06 AI 早报 📅 2026-06-06 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-06 02:03:56 📰 今日要闻 1. 📰 How Endava is redesigning software delivery around AI agents 属性 内容 📅 时间 2026-06-04 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and bu…</description><content:encoded><![CDATA[<h1>2026-06-06 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/91</guid><pubDate>Sun, 07 Jun 2026 02:31:37 +0000</pubDate></item><item><title>2026-06-06 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/90</link><description>2026-06-06 AI 早报 📅 2026-06-06 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-06 02:03:56 📰 今日要闻 1. 📰 How Endava is redesigning software delivery around AI agents 属性 内容 📅 时间 2026-06-04 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and bu…</description><content:encoded><![CDATA[<h1>2026-06-06 AI 早报</h1>
 <blockquote>
 <p>📅 2026-06-06 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-06-06 02:03:56</p>
@@ -3585,7 +3585,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/90</guid><pubDate>Sat, 06 Jun 2026 02:03:57 +0000</pubDate></item><item><title>2026-06-05 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-89/</link><description>2026-06-05 AI 早报 📅 2026-06-05 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-05 02:12:35 📰 今日要闻 1. 📰 How Endava is redesigning software delivery around AI agents 属性 内容 📅 时间 2026-06-04 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and bu…</description><content:encoded><![CDATA[<h1>2026-06-05 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/90</guid><pubDate>Sat, 06 Jun 2026 02:03:57 +0000</pubDate></item><item><title>2026-06-05 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/89</link><description>2026-06-05 AI 早报 📅 2026-06-05 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-05 02:12:35 📰 今日要闻 1. 📰 How Endava is redesigning software delivery around AI agents 属性 内容 📅 时间 2026-06-04 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and bu…</description><content:encoded><![CDATA[<h1>2026-06-05 AI 早报</h1>
 <blockquote>
 <p>📅 2026-06-05 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-06-05 02:12:35</p>
@@ -4303,7 +4303,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/89</guid><pubDate>Fri, 05 Jun 2026 02:12:35 +0000</pubDate></item><item><title>2026-06-04 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-88/</link><description>2026-06-04 AI 早报 📅 2026-06-04 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-04 02:37:18 📰 今日要闻 1. 📰 Introducing new capabilities to GPT-Rosalind 属性 内容 📅 时间 2026-06-03 🏷️ 分类 🤖 AI 模型 🚀 产品发布 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and e…</description><content:encoded><![CDATA[<h1>2026-06-04 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/89</guid><pubDate>Fri, 05 Jun 2026 02:12:35 +0000</pubDate></item><item><title>2026-06-04 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/88</link><description>2026-06-04 AI 早报 📅 2026-06-04 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-04 02:37:18 📰 今日要闻 1. 📰 Introducing new capabilities to GPT-Rosalind 属性 内容 📅 时间 2026-06-03 🏷️ 分类 🤖 AI 模型 🚀 产品发布 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and e…</description><content:encoded><![CDATA[<h1>2026-06-04 AI 早报</h1>
 <blockquote>
 <p>📅 2026-06-04 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-06-04 02:37:18</p>
@@ -5021,7 +5021,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/88</guid><pubDate>Thu, 04 Jun 2026 02:37:18 +0000</pubDate></item><item><title>2026-06-03 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-87/</link><description>2026-06-03 AI 早报 📅 2026-06-03 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-03 02:42:48 📰 今日要闻 1. 📰 Travelers deploys AI-powered claims countrywide with OpenAI 属性 内容 📅 时间 2026-06-02 🏷️ 分类 💻 开发工具 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and sc…</description><content:encoded><![CDATA[<h1>2026-06-03 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/88</guid><pubDate>Thu, 04 Jun 2026 02:37:18 +0000</pubDate></item><item><title>2026-06-03 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/87</link><description>2026-06-03 AI 早报 📅 2026-06-03 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-03 02:42:48 📰 今日要闻 1. 📰 Travelers deploys AI-powered claims countrywide with OpenAI 属性 内容 📅 时间 2026-06-02 🏷️ 分类 💻 开发工具 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and sc…</description><content:encoded><![CDATA[<h1>2026-06-03 AI 早报</h1>
 <blockquote>
 <p>📅 2026-06-03 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-06-03 02:42:48</p>
@@ -5736,7 +5736,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/87</guid><pubDate>Wed, 03 Jun 2026 02:42:48 +0000</pubDate></item><item><title>2026-06-02 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-86/</link><description>2026-06-02 AI 早报 📅 2026-06-02 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-02 02:35:15 📰 今日要闻 1. 📰 Our views on AI policy and political advocacy 属性 内容 📅 时间 2026-06-01 🏷️ 分类 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group s…</description><content:encoded><![CDATA[<h1>2026-06-02 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/87</guid><pubDate>Wed, 03 Jun 2026 02:42:48 +0000</pubDate></item><item><title>2026-06-02 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/86</link><description>2026-06-02 AI 早报 📅 2026-06-02 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-02 02:35:15 📰 今日要闻 1. 📰 Our views on AI policy and political advocacy 属性 内容 📅 时间 2026-06-01 🏷️ 分类 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group s…</description><content:encoded><![CDATA[<h1>2026-06-02 AI 早报</h1>
 <blockquote>
 <p>📅 2026-06-02 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-06-02 02:35:15</p>
@@ -6454,7 +6454,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/86</guid><pubDate>Tue, 02 Jun 2026 02:35:16 +0000</pubDate></item><item><title>2026-06-01 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-85/</link><description>2026-06-01 AI 早报 📅 2026-06-01 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-01 02:37:09 📰 今日要闻 1. 📰 Boston Children’s uses AI to unlock new diagnoses 属性 内容 📅 时间 2026-05-29 🏷️ 分类 🚀 产品发布 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease…</description><content:encoded><![CDATA[<h1>2026-06-01 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/86</guid><pubDate>Tue, 02 Jun 2026 02:35:16 +0000</pubDate></item><item><title>2026-06-01 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/85</link><description>2026-06-01 AI 早报 📅 2026-06-01 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-06-01 02:37:09 📰 今日要闻 1. 📰 Boston Children’s uses AI to unlock new diagnoses 属性 内容 📅 时间 2026-05-29 🏷️ 分类 🚀 产品发布 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease…</description><content:encoded><![CDATA[<h1>2026-06-01 AI 早报</h1>
 <blockquote>
 <p>📅 2026-06-01 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-06-01 02:37:09</p>
@@ -7168,7 +7168,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/85</guid><pubDate>Mon, 01 Jun 2026 02:37:09 +0000</pubDate></item><item><title>2026-05-31 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-84/</link><description>2026-05-31 AI 早报 📅 2026-05-31 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-31 02:15:28 📰 今日要闻 1. 📰 Boston Children’s uses AI to unlock new diagnoses 属性 内容 📅 时间 2026-05-29 🏷️ 分类 🚀 产品发布 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease…</description><content:encoded><![CDATA[<h1>2026-05-31 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/85</guid><pubDate>Mon, 01 Jun 2026 02:37:09 +0000</pubDate></item><item><title>2026-05-31 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/84</link><description>2026-05-31 AI 早报 📅 2026-05-31 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-31 02:15:28 📰 今日要闻 1. 📰 Boston Children’s uses AI to unlock new diagnoses 属性 内容 📅 时间 2026-05-29 🏷️ 分类 🚀 产品发布 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease…</description><content:encoded><![CDATA[<h1>2026-05-31 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-31 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-31 02:15:28</p>
@@ -7882,7 +7882,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/84</guid><pubDate>Sun, 31 May 2026 02:15:28 +0000</pubDate></item><item><title>2026-05-30 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-83/</link><description>2026-05-30 AI 早报 📅 2026-05-30 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-30 01:59:47 📰 今日要闻 1. 📰 Boston Children’s uses AI to unlock new diagnoses 属性 内容 📅 时间 2026-05-29 🏷️ 分类 🚀 产品发布 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease…</description><content:encoded><![CDATA[<h1>2026-05-30 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/84</guid><pubDate>Sun, 31 May 2026 02:15:28 +0000</pubDate></item><item><title>2026-05-30 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/83</link><description>2026-05-30 AI 早报 📅 2026-05-30 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-30 01:59:47 📰 今日要闻 1. 📰 Boston Children’s uses AI to unlock new diagnoses 属性 内容 📅 时间 2026-05-29 🏷️ 分类 🚀 产品发布 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease…</description><content:encoded><![CDATA[<h1>2026-05-30 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-30 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-30 01:59:47</p>
@@ -8596,7 +8596,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/83</guid><pubDate>Sat, 30 May 2026 01:59:47 +0000</pubDate></item><item><title>2026-05-29 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-82/</link><description>2026-05-29 AI 早报 📅 2026-05-29 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-29 02:04:51 📰 今日要闻 1. 📰 How Endava builds an agentic organization with Codex 属性 内容 📅 时间 2026-05-28 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to…</description><content:encoded><![CDATA[<h1>2026-05-29 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/83</guid><pubDate>Sat, 30 May 2026 01:59:47 +0000</pubDate></item><item><title>2026-05-29 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/82</link><description>2026-05-29 AI 早报 📅 2026-05-29 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-29 02:04:51 📰 今日要闻 1. 📰 How Endava builds an agentic organization with Codex 属性 内容 📅 时间 2026-05-28 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to…</description><content:encoded><![CDATA[<h1>2026-05-29 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-29 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-29 02:04:51</p>
@@ -9302,7 +9302,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/82</guid><pubDate>Fri, 29 May 2026 02:04:51 +0000</pubDate></item><item><title>2026-05-28 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-81/</link><description>2026-05-28 AI 早报 📅 2026-05-28 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-28 01:57:50 📰 今日要闻 1. 📰 Cisco and OpenAI redefine enterprise engineering with Codex 属性 内容 📅 时间 2026-05-27 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work…</description><content:encoded><![CDATA[<h1>2026-05-28 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/82</guid><pubDate>Fri, 29 May 2026 02:04:51 +0000</pubDate></item><item><title>2026-05-28 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/81</link><description>2026-05-28 AI 早报 📅 2026-05-28 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-28 01:57:50 📰 今日要闻 1. 📰 Cisco and OpenAI redefine enterprise engineering with Codex 属性 内容 📅 时间 2026-05-27 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work…</description><content:encoded><![CDATA[<h1>2026-05-28 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-28 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-28 01:57:50</p>
@@ -10008,7 +10008,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/81</guid><pubDate>Thu, 28 May 2026 01:57:50 +0000</pubDate></item><item><title>2026-05-27 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-80/</link><description>2026-05-27 AI 早报 📅 2026-05-27 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-27 02:13:45 📰 今日要闻 1. 📰 OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership 属性 内容 📅 时间 2026-05-25 🏷️ 分类 🤖 AI 模型 🚀 产品发布 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access t…</description><content:encoded><![CDATA[<h1>2026-05-27 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/81</guid><pubDate>Thu, 28 May 2026 01:57:50 +0000</pubDate></item><item><title>2026-05-27 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/80</link><description>2026-05-27 AI 早报 📅 2026-05-27 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-27 02:13:45 📰 今日要闻 1. 📰 OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership 属性 内容 📅 时间 2026-05-25 🏷️ 分类 🤖 AI 模型 🚀 产品发布 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access t…</description><content:encoded><![CDATA[<h1>2026-05-27 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-27 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-27 02:13:45</p>
@@ -10718,7 +10718,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/80</guid><pubDate>Wed, 27 May 2026 02:13:45 +0000</pubDate></item><item><title>2026-05-20 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-73/</link><description>2026-05-20 AI 早报 📅 2026-05-20 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-20 02:09:10 📰 今日要闻 1. 📰 Advancing content provenance for a safer, more transparent AI ecosystem 属性 内容 📅 时间 2026-05-19 🏷️ 分类 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and…</description><content:encoded><![CDATA[<h1>2026-05-20 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/80</guid><pubDate>Wed, 27 May 2026 02:13:45 +0000</pubDate></item><item><title>2026-05-20 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/73</link><description>2026-05-20 AI 早报 📅 2026-05-20 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-20 02:09:10 📰 今日要闻 1. 📰 Advancing content provenance for a safer, more transparent AI ecosystem 属性 内容 📅 时间 2026-05-19 🏷️ 分类 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and…</description><content:encoded><![CDATA[<h1>2026-05-20 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-20 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-20 02:09:10</p>
@@ -11432,7 +11432,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/73</guid><pubDate>Wed, 20 May 2026 02:09:11 +0000</pubDate></item><item><title>2026-05-19 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-72/</link><description>2026-05-19 AI 早报 📅 2026-05-19 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-19 02:09:51 📰 今日要闻 1. 📰 OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments 属性 内容 📅 时间 2026-05-18 🏷️ 分类 📊 数据分析 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI…</description><content:encoded><![CDATA[<h1>2026-05-19 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/73</guid><pubDate>Wed, 20 May 2026 02:09:11 +0000</pubDate></item><item><title>2026-05-19 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/72</link><description>2026-05-19 AI 早报 📅 2026-05-19 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-19 02:09:51 📰 今日要闻 1. 📰 OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments 属性 内容 📅 时间 2026-05-18 🏷️ 分类 📊 数据分析 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI…</description><content:encoded><![CDATA[<h1>2026-05-19 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-19 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-19 02:09:51</p>
@@ -12139,7 +12139,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/72</guid><pubDate>Tue, 19 May 2026 02:09:51 +0000</pubDate></item><item><title>2026-05-18 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-71/</link><description>2026-05-18 AI 早报 📅 2026-05-18 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-18 02:10:43 📰 今日要闻 1. 📰 OpenAI and Malta partner to bring ChatGPT Plus to all citizens 属性 内容 📅 时间 2026-05-16 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills…</description><content:encoded><![CDATA[<h1>2026-05-18 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/72</guid><pubDate>Tue, 19 May 2026 02:09:51 +0000</pubDate></item><item><title>2026-05-18 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/71</link><description>2026-05-18 AI 早报 📅 2026-05-18 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-18 02:10:43 📰 今日要闻 1. 📰 OpenAI and Malta partner to bring ChatGPT Plus to all citizens 属性 内容 📅 时间 2026-05-16 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills…</description><content:encoded><![CDATA[<h1>2026-05-18 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-18 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-18 02:10:43</p>
@@ -12849,7 +12849,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/71</guid><pubDate>Mon, 18 May 2026 02:10:44 +0000</pubDate></item><item><title>2026-05-16 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-69/</link><description>2026-05-16 AI 早报 📅 2026-05-16 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-16 01:56:31 📰 今日要闻 1. 📰 A new personal finance experience in ChatGPT 属性 内容 📅 时间 2026-05-15 🏷️ 分类 🤖 AI 模型 🚀 产品发布 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powe…</description><content:encoded><![CDATA[<h1>2026-05-16 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/71</guid><pubDate>Mon, 18 May 2026 02:10:44 +0000</pubDate></item><item><title>2026-05-16 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/69</link><description>2026-05-16 AI 早报 📅 2026-05-16 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-16 01:56:31 📰 今日要闻 1. 📰 A new personal finance experience in ChatGPT 属性 内容 📅 时间 2026-05-15 🏷️ 分类 🤖 AI 模型 🚀 产品发布 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powe…</description><content:encoded><![CDATA[<h1>2026-05-16 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-16 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-16 01:56:31</p>
@@ -13559,7 +13559,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/69</guid><pubDate>Sat, 16 May 2026 01:56:31 +0000</pubDate></item><item><title>2026-05-14 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-67/</link><description>2026-05-14 AI 早报 📅 2026-05-14 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-14 02:06:17 📰 今日要闻 1. 📰 Building a safe, effective sandbox to enable Codex on Windows 属性 内容 📅 时间 2026-05-13 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and…</description><content:encoded><![CDATA[<h1>2026-05-14 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/69</guid><pubDate>Sat, 16 May 2026 01:56:31 +0000</pubDate></item><item><title>2026-05-14 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/67</link><description>2026-05-14 AI 早报 📅 2026-05-14 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-14 02:06:17 📰 今日要闻 1. 📰 Building a safe, effective sandbox to enable Codex on Windows 属性 内容 📅 时间 2026-05-13 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and…</description><content:encoded><![CDATA[<h1>2026-05-14 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-14 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-14 02:06:17</p>
@@ -14269,7 +14269,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/67</guid><pubDate>Thu, 14 May 2026 02:06:17 +0000</pubDate></item><item><title>2026-05-13 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-66/</link><description>2026-05-13 AI 早报 📅 2026-05-13 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-13 02:03:15 📰 今日要闻 1. 📰 How finance teams use Codex 属性 内容 📅 时间 2026-05-12 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📱 移动开发 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs. 下一条 →…</description><content:encoded><![CDATA[<h1>2026-05-13 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/67</guid><pubDate>Thu, 14 May 2026 02:06:17 +0000</pubDate></item><item><title>2026-05-13 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/66</link><description>2026-05-13 AI 早报 📅 2026-05-13 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-13 02:03:15 📰 今日要闻 1. 📰 How finance teams use Codex 属性 内容 📅 时间 2026-05-12 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 📱 移动开发 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs. 下一条 →…</description><content:encoded><![CDATA[<h1>2026-05-13 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-13 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-13 02:03:15</p>
@@ -14979,7 +14979,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/66</guid><pubDate>Wed, 13 May 2026 02:03:15 +0000</pubDate></item><item><title>2026-05-12 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-65/</link><description>2026-05-12 AI 早报 📅 2026-05-12 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-12 01:58:48 📰 今日要闻 1. 📰 How ChatGPT adoption broadened in early 2026 属性 内容 📅 时间 2026-05-11 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.…</description><content:encoded><![CDATA[<h1>2026-05-12 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/66</guid><pubDate>Wed, 13 May 2026 02:03:15 +0000</pubDate></item><item><title>2026-05-12 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/65</link><description>2026-05-12 AI 早报 📅 2026-05-12 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-12 01:58:48 📰 今日要闻 1. 📰 How ChatGPT adoption broadened in early 2026 属性 内容 📅 时间 2026-05-11 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.…</description><content:encoded><![CDATA[<h1>2026-05-12 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-12 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-12 01:58:48</p>
@@ -15689,7 +15689,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/65</guid><pubDate>Tue, 12 May 2026 01:58:48 +0000</pubDate></item><item><title>2026-05-10 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-63/</link><description>2026-05-10 AI 早报 📅 2026-05-10 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-10 01:52:50 📰 今日要闻 1. 📰 Running Codex safely at OpenAI 属性 内容 📅 时间 2026-05-08 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption. 下一条 → |…</description><content:encoded><![CDATA[<h1>2026-05-10 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/65</guid><pubDate>Tue, 12 May 2026 01:58:48 +0000</pubDate></item><item><title>2026-05-10 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/63</link><description>2026-05-10 AI 早报 📅 2026-05-10 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-10 01:52:50 📰 今日要闻 1. 📰 Running Codex safely at OpenAI 属性 内容 📅 时间 2026-05-08 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption. 下一条 → |…</description><content:encoded><![CDATA[<h1>2026-05-10 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-10 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-10 01:52:50</p>
@@ -16399,7 +16399,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/63</guid><pubDate>Sun, 10 May 2026 01:52:51 +0000</pubDate></item><item><title>2026-05-08 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-61/</link><description>2026-05-08 AI 早报 📅 2026-05-08 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-08 01:59:36 📰 今日要闻 1. 📰 Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber 属性 内容 📅 时间 2026-05-07 🏷️ 分类 🤖 AI 模型 🔒 安全隐私 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnera…</description><content:encoded><![CDATA[<h1>2026-05-08 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/63</guid><pubDate>Sun, 10 May 2026 01:52:51 +0000</pubDate></item><item><title>2026-05-08 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/61</link><description>2026-05-08 AI 早报 📅 2026-05-08 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-08 01:59:36 📰 今日要闻 1. 📰 Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber 属性 内容 📅 时间 2026-05-07 🏷️ 分类 🤖 AI 模型 🔒 安全隐私 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnera…</description><content:encoded><![CDATA[<h1>2026-05-08 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-08 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-08 01:59:36</p>
@@ -17113,7 +17113,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/61</guid><pubDate>Fri, 08 May 2026 01:59:36 +0000</pubDate></item><item><title>2026-05-07 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-60/</link><description>2026-05-07 AI 早报 📅 2026-05-07 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-07 01:53:46 📰 今日要闻 1. 📰 Introducing ChatGPT Futures: Class of 2026 属性 内容 📅 时间 2026-05-06 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this…</description><content:encoded><![CDATA[<h1>2026-05-07 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/61</guid><pubDate>Fri, 08 May 2026 01:59:36 +0000</pubDate></item><item><title>2026-05-07 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/60</link><description>2026-05-07 AI 早报 📅 2026-05-07 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-07 01:53:46 📰 今日要闻 1. 📰 Introducing ChatGPT Futures: Class of 2026 属性 内容 📅 时间 2026-05-06 🏷️ 分类 🤖 AI 模型 🎨 前端 UI 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this…</description><content:encoded><![CDATA[<h1>2026-05-07 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-07 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-07 01:53:46</p>
@@ -17827,7 +17827,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/60</guid><pubDate>Thu, 07 May 2026 01:53:46 +0000</pubDate></item><item><title>2026-05-06 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-59/</link><description>2026-05-06 AI 早报 📅 2026-05-06 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-06 01:49:47 📰 今日要闻 1. 📰 GPT-5.5 Instant System Card 属性 内容 📅 时间 2026-05-05 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 下一条 → | ↑ 返回顶部 2. 📰 GPT-5.5 Instant: smarter, clearer, and more personalized 属性 内容 📅 时间 2026-05-05 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 GPT-5.5 Instan…</description><content:encoded><![CDATA[<h1>2026-05-06 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/60</guid><pubDate>Thu, 07 May 2026 01:53:46 +0000</pubDate></item><item><title>2026-05-06 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/59</link><description>2026-05-06 AI 早报 📅 2026-05-06 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-06 01:49:47 📰 今日要闻 1. 📰 GPT-5.5 Instant System Card 属性 内容 📅 时间 2026-05-05 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 下一条 → | ↑ 返回顶部 2. 📰 GPT-5.5 Instant: smarter, clearer, and more personalized 属性 内容 📅 时间 2026-05-05 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 GPT-5.5 Instan…</description><content:encoded><![CDATA[<h1>2026-05-06 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-06 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-06 01:49:47</p>
@@ -18538,7 +18538,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/59</guid><pubDate>Wed, 06 May 2026 01:49:47 +0000</pubDate></item><item><title>2026-05-05 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-58/</link><description>2026-05-05 AI 早报 📅 2026-05-05 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-05 01:50:34 📰 今日要闻 1. 📰 How OpenAI delivers low-latency voice AI at scale 属性 内容 📅 时间 2026-05-04 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking. 下一条 → |…</description><content:encoded><![CDATA[<h1>2026-05-05 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/59</guid><pubDate>Wed, 06 May 2026 01:49:47 +0000</pubDate></item><item><title>2026-05-05 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/58</link><description>2026-05-05 AI 早报 📅 2026-05-05 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-05 01:50:34 📰 今日要闻 1. 📰 How OpenAI delivers low-latency voice AI at scale 属性 内容 📅 时间 2026-05-04 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking. 下一条 → |…</description><content:encoded><![CDATA[<h1>2026-05-05 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-05 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-05 01:50:34</p>
@@ -19256,7 +19256,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/58</guid><pubDate>Tue, 05 May 2026 01:50:35 +0000</pubDate></item><item><title>2026-05-04 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-57/</link><description>2026-05-04 AI 早报 📅 2026-05-04 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-04 01:50:23 📰 今日要闻 1. 📰 Introducing Advanced Account Security 属性 内容 📅 时间 2026-04-30 🏷️ 分类 📊 数据分析 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent ac…</description><content:encoded><![CDATA[<h1>2026-05-04 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/58</guid><pubDate>Tue, 05 May 2026 01:50:35 +0000</pubDate></item><item><title>2026-05-04 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/57</link><description>2026-05-04 AI 早报 📅 2026-05-04 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-04 01:50:23 📰 今日要闻 1. 📰 Introducing Advanced Account Security 属性 内容 📅 时间 2026-04-30 🏷️ 分类 📊 数据分析 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent ac…</description><content:encoded><![CDATA[<h1>2026-05-04 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-04 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-04 01:50:23</p>
@@ -19974,7 +19974,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/57</guid><pubDate>Mon, 04 May 2026 01:50:23 +0000</pubDate></item><item><title>2026-05-03 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-56/</link><description>2026-05-03 AI 早报 📅 2026-05-03 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-03 01:49:33 📰 今日要闻 1. 📰 Introducing Advanced Account Security 属性 内容 📅 时间 2026-04-30 🏷️ 分类 📊 数据分析 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent ac…</description><content:encoded><![CDATA[<h1>2026-05-03 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/57</guid><pubDate>Mon, 04 May 2026 01:50:23 +0000</pubDate></item><item><title>2026-05-03 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/56</link><description>2026-05-03 AI 早报 📅 2026-05-03 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-03 01:49:33 📰 今日要闻 1. 📰 Introducing Advanced Account Security 属性 内容 📅 时间 2026-04-30 🏷️ 分类 📊 数据分析 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent ac…</description><content:encoded><![CDATA[<h1>2026-05-03 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-03 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-03 01:49:33</p>
@@ -20692,7 +20692,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/56</guid><pubDate>Sun, 03 May 2026 01:49:33 +0000</pubDate></item><item><title>2026-05-02 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-55/</link><description>2026-05-02 AI 早报 📅 2026-05-02 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-02 01:46:10 📰 今日要闻 1. 📰 Introducing Advanced Account Security 属性 内容 📅 时间 2026-04-30 🏷️ 分类 📊 数据分析 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent ac…</description><content:encoded><![CDATA[<h1>2026-05-02 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/56</guid><pubDate>Sun, 03 May 2026 01:49:33 +0000</pubDate></item><item><title>2026-05-02 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/55</link><description>2026-05-02 AI 早报 📅 2026-05-02 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-02 01:46:10 📰 今日要闻 1. 📰 Introducing Advanced Account Security 属性 内容 📅 时间 2026-04-30 🏷️ 分类 📊 数据分析 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent ac…</description><content:encoded><![CDATA[<h1>2026-05-02 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-02 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-02 01:46:10</p>
@@ -21410,7 +21410,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/55</guid><pubDate>Sat, 02 May 2026 01:46:10 +0000</pubDate></item><item><title>2026-05-01 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-54/</link><description>2026-05-01 AI 早报 📅 2026-05-01 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-01 01:57:38 📰 今日要闻 1. 📰 Introducing Advanced Account Security 属性 内容 📅 时间 2026-04-30 🏷️ 分类 📊 数据分析 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent ac…</description><content:encoded><![CDATA[<h1>2026-05-01 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/55</guid><pubDate>Sat, 02 May 2026 01:46:10 +0000</pubDate></item><item><title>2026-05-01 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/54</link><description>2026-05-01 AI 早报 📅 2026-05-01 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-05-01 01:57:38 📰 今日要闻 1. 📰 Introducing Advanced Account Security 属性 内容 📅 时间 2026-04-30 🏷️ 分类 📊 数据分析 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent ac…</description><content:encoded><![CDATA[<h1>2026-05-01 AI 早报</h1>
 <blockquote>
 <p>📅 2026-05-01 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-05-01 01:57:38</p>
@@ -22125,7 +22125,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/54</guid><pubDate>Fri, 01 May 2026 01:57:38 +0000</pubDate></item><item><title>2026-04-30 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-53/</link><description>2026-04-30 AI 早报 📅 2026-04-30 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-30 01:55:37 📰 今日要闻 1. 📰 Building the compute infrastructure for the Intelligence Age 属性 内容 📅 时间 2026-04-29 🏷️ 分类 🚀 产品发布 📊 数据分析 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing…</description><content:encoded><![CDATA[<h1>2026-04-30 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/54</guid><pubDate>Fri, 01 May 2026 01:57:38 +0000</pubDate></item><item><title>2026-04-30 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/53</link><description>2026-04-30 AI 早报 📅 2026-04-30 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-30 01:55:37 📰 今日要闻 1. 📰 Building the compute infrastructure for the Intelligence Age 属性 内容 📅 时间 2026-04-29 🏷️ 分类 🚀 产品发布 📊 数据分析 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing…</description><content:encoded><![CDATA[<h1>2026-04-30 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-30 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-30 01:55:37</p>
@@ -22843,7 +22843,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/53</guid><pubDate>Thu, 30 Apr 2026 01:55:37 +0000</pubDate></item><item><title>2026-04-29 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-52/</link><description>2026-04-29 AI 早报 📅 2026-04-29 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-29 01:55:49 📰 今日要闻 1. 📰 Our commitment to community safety 属性 内容 📅 时间 2026-04-28 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts. 下一条…</description><content:encoded><![CDATA[<h1>2026-04-29 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/53</guid><pubDate>Thu, 30 Apr 2026 01:55:37 +0000</pubDate></item><item><title>2026-04-29 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/52</link><description>2026-04-29 AI 早报 📅 2026-04-29 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-29 01:55:49 📰 今日要闻 1. 📰 Our commitment to community safety 属性 内容 📅 时间 2026-04-28 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts. 下一条…</description><content:encoded><![CDATA[<h1>2026-04-29 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-29 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-29 01:55:49</p>
@@ -23561,7 +23561,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/52</guid><pubDate>Wed, 29 Apr 2026 01:55:50 +0000</pubDate></item><item><title>2026-04-28 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-51/</link><description>2026-04-28 AI 早报 📅 2026-04-28 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-28 01:53:44 📰 今日要闻 1. 📰 OpenAI available at FedRAMP Moderate 属性 内容 📅 时间 2026-04-27 🏷️ 分类 🤖 AI 模型 💻 开发工具 ⚙️ 后端架构 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal a…</description><content:encoded><![CDATA[<h1>2026-04-28 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/52</guid><pubDate>Wed, 29 Apr 2026 01:55:50 +0000</pubDate></item><item><title>2026-04-28 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/51</link><description>2026-04-28 AI 早报 📅 2026-04-28 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-28 01:53:44 📰 今日要闻 1. 📰 OpenAI available at FedRAMP Moderate 属性 内容 📅 时间 2026-04-27 🏷️ 分类 🤖 AI 模型 💻 开发工具 ⚙️ 后端架构 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal a…</description><content:encoded><![CDATA[<h1>2026-04-28 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-28 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-28 01:53:44</p>
@@ -24275,7 +24275,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/51</guid><pubDate>Tue, 28 Apr 2026 01:53:44 +0000</pubDate></item><item><title>2026-04-27 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-50/</link><description>2026-04-27 AI 早报 📅 2026-04-27 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-27 01:46:13 📰 今日要闻 1. 📰 Our principles 属性 内容 📅 时间 2026-04-26 🏷️ 分类 💻 开发工具 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work. 下一条 → | ↑ 返回顶部 2. 📰 GPT-5.5 System Card 属性 内容 📅 时间 2026-04…</description><content:encoded><![CDATA[<h1>2026-04-27 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/51</guid><pubDate>Tue, 28 Apr 2026 01:53:44 +0000</pubDate></item><item><title>2026-04-27 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/50</link><description>2026-04-27 AI 早报 📅 2026-04-27 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-27 01:46:13 📰 今日要闻 1. 📰 Our principles 属性 内容 📅 时间 2026-04-26 🏷️ 分类 💻 开发工具 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work. 下一条 → | ↑ 返回顶部 2. 📰 GPT-5.5 System Card 属性 内容 📅 时间 2026-04…</description><content:encoded><![CDATA[<h1>2026-04-27 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-27 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-27 01:46:13</p>
@@ -24982,7 +24982,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/50</guid><pubDate>Mon, 27 Apr 2026 01:46:13 +0000</pubDate></item><item><title>2026-04-26 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-49/</link><description>2026-04-26 AI 早报 📅 2026-04-26 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-26 01:42:54 📰 今日要闻 1. 📰 Introducing GPT-5.5 属性 内容 📅 时间 2026-04-23 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 数据分析 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools. 下一条 → | ↑ 返回…</description><content:encoded><![CDATA[<h1>2026-04-26 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/50</guid><pubDate>Mon, 27 Apr 2026 01:46:13 +0000</pubDate></item><item><title>2026-04-26 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/49</link><description>2026-04-26 AI 早报 📅 2026-04-26 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-26 01:42:54 📰 今日要闻 1. 📰 Introducing GPT-5.5 属性 内容 📅 时间 2026-04-23 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 数据分析 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools. 下一条 → | ↑ 返回…</description><content:encoded><![CDATA[<h1>2026-04-26 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-26 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-26 01:42:54</p>
@@ -25689,7 +25689,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/49</guid><pubDate>Sun, 26 Apr 2026 01:42:55 +0000</pubDate></item><item><title>2026-04-25 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-48/</link><description>2026-04-25 AI 早报 📅 2026-04-25 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-25 01:21:55 📰 今日要闻 1. 📰 Introducing GPT-5.5 属性 内容 📅 时间 2026-04-23 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 数据分析 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools. 下一条 → | ↑ 返回…</description><content:encoded><![CDATA[<h1>2026-04-25 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/49</guid><pubDate>Sun, 26 Apr 2026 01:42:55 +0000</pubDate></item><item><title>2026-04-25 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/48</link><description>2026-04-25 AI 早报 📅 2026-04-25 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-25 01:21:55 📰 今日要闻 1. 📰 Introducing GPT-5.5 属性 内容 📅 时间 2026-04-23 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 数据分析 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools. 下一条 → | ↑ 返回…</description><content:encoded><![CDATA[<h1>2026-04-25 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-25 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-25 01:21:55</p>
@@ -26396,7 +26396,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/48</guid><pubDate>Sat, 25 Apr 2026 01:21:55 +0000</pubDate></item><item><title>2026-04-24 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-47/</link><description>2026-04-24 AI 早报 📅 2026-04-24 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-24 01:28:44 📰 今日要闻 1. 📰 Introducing GPT-5.5 属性 内容 📅 时间 2026-04-23 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 数据分析 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools. 下一条 → | ↑ 返回…</description><content:encoded><![CDATA[<h1>2026-04-24 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/48</guid><pubDate>Sat, 25 Apr 2026 01:21:55 +0000</pubDate></item><item><title>2026-04-24 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/47</link><description>2026-04-24 AI 早报 📅 2026-04-24 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-24 01:28:44 📰 今日要闻 1. 📰 Introducing GPT-5.5 属性 内容 📅 时间 2026-04-23 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 数据分析 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools. 下一条 → | ↑ 返回…</description><content:encoded><![CDATA[<h1>2026-04-24 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-24 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-24 01:28:44</p>
@@ -27099,7 +27099,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/47</guid><pubDate>Fri, 24 Apr 2026 01:28:44 +0000</pubDate></item><item><title>2026-04-22 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-45/</link><description>2026-04-22 AI 早报 📅 2026-04-22 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-22 01:24:14 📰 今日要闻 1. 🔥 Scaling Codex to enterprises worldwide 属性 内容 📅 时间 2026-04-21 🏷️ 分类 🚀 产品发布 💻 开发工具 📊 重要性 🔥 重要 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software deve…</description><content:encoded><![CDATA[<h1>2026-04-22 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/47</guid><pubDate>Fri, 24 Apr 2026 01:28:44 +0000</pubDate></item><item><title>2026-04-22 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/45</link><description>2026-04-22 AI 早报 📅 2026-04-22 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-22 01:24:14 📰 今日要闻 1. 🔥 Scaling Codex to enterprises worldwide 属性 内容 📅 时间 2026-04-21 🏷️ 分类 🚀 产品发布 💻 开发工具 📊 重要性 🔥 重要 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software deve…</description><content:encoded><![CDATA[<h1>2026-04-22 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-22 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-22 01:24:14</p>
@@ -27813,7 +27813,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/45</guid><pubDate>Wed, 22 Apr 2026 01:24:14 +0000</pubDate></item><item><title>2026-04-21 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-44/</link><description>2026-04-21 AI 早报 📅 2026-04-21 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-21 01:25:28 📰 今日要闻 1. 📰 OpenAI helps Hyatt advance AI among colleagues 属性 内容 📅 时间 2026-04-20 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences. 下一…</description><content:encoded><![CDATA[<h1>2026-04-21 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/45</guid><pubDate>Wed, 22 Apr 2026 01:24:14 +0000</pubDate></item><item><title>2026-04-21 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/44</link><description>2026-04-21 AI 早报 📅 2026-04-21 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-21 01:25:28 📰 今日要闻 1. 📰 OpenAI helps Hyatt advance AI among colleagues 属性 内容 📅 时间 2026-04-20 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences. 下一…</description><content:encoded><![CDATA[<h1>2026-04-21 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-21 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-21 01:25:28</p>
@@ -28502,7 +28502,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/44</guid><pubDate>Tue, 21 Apr 2026 01:25:28 +0000</pubDate></item><item><title>2026-04-20 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-43/</link><description>2026-04-20 AI 早报 📅 2026-04-20 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-20 01:28:32 📰 今日要闻 1. 📰 Codex for (almost) everything 属性 内容 📅 时间 2026-04-16 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-04-20 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/44</guid><pubDate>Tue, 21 Apr 2026 01:25:28 +0000</pubDate></item><item><title>2026-04-20 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/43</link><description>2026-04-20 AI 早报 📅 2026-04-20 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-20 01:28:32 📰 今日要闻 1. 📰 Codex for (almost) everything 属性 内容 📅 时间 2026-04-16 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-04-20 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-20 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-20 01:28:32</p>
@@ -29216,7 +29216,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/43</guid><pubDate>Mon, 20 Apr 2026 01:28:32 +0000</pubDate></item><item><title>2026-04-19 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-42/</link><description>2026-04-19 AI 早报 📅 2026-04-19 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-19 01:28:54 📰 今日要闻 1. 📰 Codex for (almost) everything 属性 内容 📅 时间 2026-04-16 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-04-19 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/43</guid><pubDate>Mon, 20 Apr 2026 01:28:32 +0000</pubDate></item><item><title>2026-04-19 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/42</link><description>2026-04-19 AI 早报 📅 2026-04-19 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-19 01:28:54 📰 今日要闻 1. 📰 Codex for (almost) everything 属性 内容 📅 时间 2026-04-16 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-04-19 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-19 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-19 01:28:54</p>
@@ -29930,7 +29930,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/42</guid><pubDate>Sun, 19 Apr 2026 01:28:54 +0000</pubDate></item><item><title>2026-04-18 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-41/</link><description>2026-04-18 AI 早报 📅 2026-04-18 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-18 01:19:15 📰 今日要闻 1. 📰 Codex for (almost) everything 属性 内容 📅 时间 2026-04-16 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-04-18 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/42</guid><pubDate>Sun, 19 Apr 2026 01:28:54 +0000</pubDate></item><item><title>2026-04-18 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/41</link><description>2026-04-18 AI 早报 📅 2026-04-18 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-18 01:19:15 📰 今日要闻 1. 📰 Codex for (almost) everything 属性 内容 📅 时间 2026-04-16 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-04-18 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-18 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-18 01:19:15</p>
@@ -30644,7 +30644,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/41</guid><pubDate>Sat, 18 Apr 2026 01:19:15 +0000</pubDate></item><item><title>2026-04-17 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-40/</link><description>2026-04-17 AI 早报 📅 2026-04-17 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-17 01:25:44 📰 今日要闻 1. 📰 Codex for (almost) everything 属性 内容 📅 时间 2026-04-16 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-04-17 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/41</guid><pubDate>Sat, 18 Apr 2026 01:19:15 +0000</pubDate></item><item><title>2026-04-17 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/40</link><description>2026-04-17 AI 早报 📅 2026-04-17 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-17 01:25:44 📰 今日要闻 1. 📰 Codex for (almost) everything 属性 内容 📅 时间 2026-04-16 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-04-17 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-17 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-17 01:25:44</p>
@@ -31358,7 +31358,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/40</guid><pubDate>Fri, 17 Apr 2026 01:25:44 +0000</pubDate></item><item><title>2026-04-14 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-37/</link><description>2026-04-14 AI 早报 📅 2026-04-14 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-14 01:25:42 📰 今日要闻 1. 📰 Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI 属性 内容 📅 时间 2026-04-13 🏷️ 分类 🤖 AI 模型 🔒 安全隐私 ☁️ 云服务 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and sca…</description><content:encoded><![CDATA[<h1>2026-04-14 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/40</guid><pubDate>Fri, 17 Apr 2026 01:25:44 +0000</pubDate></item><item><title>2026-04-14 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/37</link><description>2026-04-14 AI 早报 📅 2026-04-14 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-14 01:25:42 📰 今日要闻 1. 📰 Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI 属性 内容 📅 时间 2026-04-13 🏷️ 分类 🤖 AI 模型 🔒 安全隐私 ☁️ 云服务 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and sca…</description><content:encoded><![CDATA[<h1>2026-04-14 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-14 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-14 01:25:42</p>
@@ -32068,7 +32068,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/37</guid><pubDate>Tue, 14 Apr 2026 01:25:43 +0000</pubDate></item><item><title>2026-04-13 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-36/</link><description>2026-04-13 AI 早报 📅 2026-04-13 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-13 01:27:51 📰 今日要闻 1. 📰 Using projects in ChatGPT 属性 内容 📅 时间 2026-04-10 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively. 下一条 → | ↑ 返回顶部 2. 📰 ChatGPT for m…</description><content:encoded><![CDATA[<h1>2026-04-13 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/37</guid><pubDate>Tue, 14 Apr 2026 01:25:43 +0000</pubDate></item><item><title>2026-04-13 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/36</link><description>2026-04-13 AI 早报 📅 2026-04-13 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-13 01:27:51 📰 今日要闻 1. 📰 Using projects in ChatGPT 属性 内容 📅 时间 2026-04-10 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively. 下一条 → | ↑ 返回顶部 2. 📰 ChatGPT for m…</description><content:encoded><![CDATA[<h1>2026-04-13 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-13 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-13 01:27:51</p>
@@ -32778,7 +32778,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/36</guid><pubDate>Mon, 13 Apr 2026 01:27:51 +0000</pubDate></item><item><title>2026-04-12 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-35/</link><description>2026-04-12 AI 早报 📅 2026-04-12 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-12 01:25:31 📰 今日要闻 1. 📰 Healthcare 属性 内容 📅 时间 2026-04-10 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools. 下一条 → | ↑ 返回顶部 2. 📰 Using skills 属性 内容 📅 时间 2026-…</description><content:encoded><![CDATA[<h1>2026-04-12 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/36</guid><pubDate>Mon, 13 Apr 2026 01:27:51 +0000</pubDate></item><item><title>2026-04-12 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/35</link><description>2026-04-12 AI 早报 📅 2026-04-12 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-12 01:25:31 📰 今日要闻 1. 📰 Healthcare 属性 内容 📅 时间 2026-04-10 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools. 下一条 → | ↑ 返回顶部 2. 📰 Using skills 属性 内容 📅 时间 2026-…</description><content:encoded><![CDATA[<h1>2026-04-12 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-12 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-12 01:25:31</p>
@@ -33488,7 +33488,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/35</guid><pubDate>Sun, 12 Apr 2026 01:25:31 +0000</pubDate></item><item><title>2026-04-11 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-34/</link><description>2026-04-11 AI 早报 📅 2026-04-11 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-11 01:16:44 📰 今日要闻 1. 📰 Research with ChatGPT 属性 内容 📅 时间 2026-04-10 🏷️ 分类 🤖 AI 模型 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights. 下一条 → | ↑ 返回顶部 2.…</description><content:encoded><![CDATA[<h1>2026-04-11 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/35</guid><pubDate>Sun, 12 Apr 2026 01:25:31 +0000</pubDate></item><item><title>2026-04-11 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/34</link><description>2026-04-11 AI 早报 📅 2026-04-11 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-11 01:16:44 📰 今日要闻 1. 📰 Research with ChatGPT 属性 内容 📅 时间 2026-04-10 🏷️ 分类 🤖 AI 模型 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights. 下一条 → | ↑ 返回顶部 2.…</description><content:encoded><![CDATA[<h1>2026-04-11 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-11 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-11 01:16:44</p>
@@ -34198,7 +34198,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/34</guid><pubDate>Sat, 11 Apr 2026 01:16:44 +0000</pubDate></item><item><title>2026-04-10 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-33/</link><description>2026-04-10 AI 早报 📅 2026-04-10 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-10 01:22:01 📰 今日要闻 1. 📰 CyberAgent moves faster with ChatGPT Enterprise and Codex 属性 内容 📅 时间 2026-04-09 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising,…</description><content:encoded><![CDATA[<h1>2026-04-10 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/34</guid><pubDate>Sat, 11 Apr 2026 01:16:44 +0000</pubDate></item><item><title>2026-04-10 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/33</link><description>2026-04-10 AI 早报 📅 2026-04-10 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-10 01:22:01 📰 今日要闻 1. 📰 CyberAgent moves faster with ChatGPT Enterprise and Codex 属性 内容 📅 时间 2026-04-09 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising,…</description><content:encoded><![CDATA[<h1>2026-04-10 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-10 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-10 01:22:01</p>
@@ -34908,7 +34908,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/33</guid><pubDate>Fri, 10 Apr 2026 01:22:01 +0000</pubDate></item><item><title>2026-04-09 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-32/</link><description>2026-04-09 AI 早报 📅 2026-04-09 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-09 01:11:16 📰 今日要闻 1. 📰 The next phase of enterprise AI 属性 内容 📅 时间 2026-04-08 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI age…</description><content:encoded><![CDATA[<h1>2026-04-09 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/33</guid><pubDate>Fri, 10 Apr 2026 01:22:01 +0000</pubDate></item><item><title>2026-04-09 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/32</link><description>2026-04-09 AI 早报 📅 2026-04-09 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-09 01:11:16 📰 今日要闻 1. 📰 The next phase of enterprise AI 属性 内容 📅 时间 2026-04-08 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI age…</description><content:encoded><![CDATA[<h1>2026-04-09 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-09 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-09 01:11:16</p>
@@ -35619,7 +35619,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/32</guid><pubDate>Thu, 09 Apr 2026 01:11:16 +0000</pubDate></item><item><title>2026-04-08 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-31/</link><description>2026-04-08 AI 早报 📅 2026-04-08 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-08 01:21:05 📰 今日要闻 1. 📰 Announcing the OpenAI Safety Fellowship 属性 内容 📅 时间 2026-04-06 🏷️ 分类 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 A pilot program to support independent safety and alignment research and develop the next generation of talent 下一条 → | ↑ 返回顶部 2. 🔥 Industrial policy for the…</description><content:encoded><![CDATA[<h1>2026-04-08 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/32</guid><pubDate>Thu, 09 Apr 2026 01:11:16 +0000</pubDate></item><item><title>2026-04-08 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/31</link><description>2026-04-08 AI 早报 📅 2026-04-08 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-08 01:21:05 📰 今日要闻 1. 📰 Announcing the OpenAI Safety Fellowship 属性 内容 📅 时间 2026-04-06 🏷️ 分类 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 A pilot program to support independent safety and alignment research and develop the next generation of talent 下一条 → | ↑ 返回顶部 2. 🔥 Industrial policy for the…</description><content:encoded><![CDATA[<h1>2026-04-08 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-08 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-08 01:21:05</p>
@@ -36330,7 +36330,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/31</guid><pubDate>Wed, 08 Apr 2026 01:21:05 +0000</pubDate></item><item><title>2026-04-07 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-30/</link><description>2026-04-07 AI 早报 📅 2026-04-07 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-07 01:20:13 📰 今日要闻 1. 📰 Announcing the OpenAI Safety Fellowship 属性 内容 📅 时间 2026-04-06 🏷️ 分类 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 A pilot program to support independent safety and alignment research and develop the next generation of talent 下一条 → | ↑ 返回顶部 2. 🔥 Industrial policy for the…</description><content:encoded><![CDATA[<h1>2026-04-07 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/31</guid><pubDate>Wed, 08 Apr 2026 01:21:05 +0000</pubDate></item><item><title>2026-04-07 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/30</link><description>2026-04-07 AI 早报 📅 2026-04-07 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-07 01:20:13 📰 今日要闻 1. 📰 Announcing the OpenAI Safety Fellowship 属性 内容 📅 时间 2026-04-06 🏷️ 分类 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 A pilot program to support independent safety and alignment research and develop the next generation of talent 下一条 → | ↑ 返回顶部 2. 🔥 Industrial policy for the…</description><content:encoded><![CDATA[<h1>2026-04-07 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-07 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-07 01:20:13</p>
@@ -37041,7 +37041,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/30</guid><pubDate>Tue, 07 Apr 2026 01:20:14 +0000</pubDate></item><item><title>2026-04-06 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-29/</link><description>2026-04-06 AI 早报 📅 2026-04-06 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-06 01:22:26 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-06 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/30</guid><pubDate>Tue, 07 Apr 2026 01:20:14 +0000</pubDate></item><item><title>2026-04-06 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/29</link><description>2026-04-06 AI 早报 📅 2026-04-06 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-06 01:22:26 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-06 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-06 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-06 01:22:26</p>
@@ -37755,7 +37755,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/29</guid><pubDate>Mon, 06 Apr 2026 01:22:26 +0000</pubDate></item><item><title>2026-04-05 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-28/</link><description>2026-04-05 AI 早报 📅 2026-04-05 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-05 01:22:14 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-05 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/29</guid><pubDate>Mon, 06 Apr 2026 01:22:26 +0000</pubDate></item><item><title>2026-04-05 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/28</link><description>2026-04-05 AI 早报 📅 2026-04-05 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-05 01:22:14 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-05 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-05 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-05 01:22:14</p>
@@ -38469,7 +38469,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/28</guid><pubDate>Sun, 05 Apr 2026 01:22:15 +0000</pubDate></item><item><title>2026-04-04 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-27/</link><description>2026-04-04 AI 早报 📅 2026-04-04 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-04 01:13:21 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-04 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/28</guid><pubDate>Sun, 05 Apr 2026 01:22:15 +0000</pubDate></item><item><title>2026-04-04 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/27</link><description>2026-04-04 AI 早报 📅 2026-04-04 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-04 01:13:21 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-04 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-04 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-04 01:13:21</p>
@@ -39183,7 +39183,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/27</guid><pubDate>Sat, 04 Apr 2026 01:13:21 +0000</pubDate></item><item><title>2026-04-03 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-26/</link><description>2026-04-03 AI 早报 📅 2026-04-03 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-03 01:18:55 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-03 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/27</guid><pubDate>Sat, 04 Apr 2026 01:13:21 +0000</pubDate></item><item><title>2026-04-03 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/26</link><description>2026-04-03 AI 早报 📅 2026-04-03 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-03 01:18:55 📰 今日要闻 1. 📰 OpenAI acquires TBPN 属性 内容 📅 时间 2026-04-02 🏷️ 分类 🎨 前端 UI 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.…</description><content:encoded><![CDATA[<h1>2026-04-03 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-03 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-03 01:18:55</p>
@@ -39818,7 +39818,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/26</guid><pubDate>Fri, 03 Apr 2026 01:18:56 +0000</pubDate></item><item><title>2026-04-01 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-24/</link><description>2026-04-01 AI 早报 📅 2026-04-01 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-01 01:26:18 📰 今日要闻 1. ⭐ Accelerating the next phase of AI 属性 内容 📅 时间 2026-03-31 🏷️ 分类 🤖 AI 模型 🚀 产品发布 📊 重要性 ⭐ 新品 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, a…</description><content:encoded><![CDATA[<h1>2026-04-01 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/26</guid><pubDate>Fri, 03 Apr 2026 01:18:56 +0000</pubDate></item><item><title>2026-04-01 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/24</link><description>2026-04-01 AI 早报 📅 2026-04-01 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-04-01 01:26:18 📰 今日要闻 1. ⭐ Accelerating the next phase of AI 属性 内容 📅 时间 2026-03-31 🏷️ 分类 🤖 AI 模型 🚀 产品发布 📊 重要性 ⭐ 新品 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, a…</description><content:encoded><![CDATA[<h1>2026-04-01 AI 早报</h1>
 <blockquote>
 <p>📅 2026-04-01 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-04-01 01:26:18</p>
@@ -40532,7 +40532,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/24</guid><pubDate>Wed, 01 Apr 2026 01:26:18 +0000</pubDate></item><item><title>2026-03-31 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-23/</link><description>2026-03-31 AI 早报 📅 2026-03-31 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-31 01:19:17 📰 今日要闻 1. 📰 Helping disaster response teams turn AI into action across Asia 属性 内容 📅 时间 2026-03-29 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation 下一条 → | ↑ 返回顶部 2. 📰 STADLER reshapes knowledge work at a 230…</description><content:encoded><![CDATA[<h1>2026-03-31 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/24</guid><pubDate>Wed, 01 Apr 2026 01:26:18 +0000</pubDate></item><item><title>2026-03-31 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/23</link><description>2026-03-31 AI 早报 📅 2026-03-31 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-31 01:19:17 📰 今日要闻 1. 📰 Helping disaster response teams turn AI into action across Asia 属性 内容 📅 时间 2026-03-29 🏷️ 分类 📰 综合资讯 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation 下一条 → | ↑ 返回顶部 2. 📰 STADLER reshapes knowledge work at a 230…</description><content:encoded><![CDATA[<h1>2026-03-31 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-31 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-31 01:19:17</p>
@@ -41246,7 +41246,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/23</guid><pubDate>Tue, 31 Mar 2026 01:19:17 +0000</pubDate></item><item><title>2026-03-30 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-22/</link><description>2026-03-30 AI 早报 📅 2026-03-30 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-30 01:22:07 📰 今日要闻 1. 📰 STADLER reshapes knowledge work at a 230-year-old company 属性 内容 📅 时间 2026-03-27 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-03-30 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/23</guid><pubDate>Tue, 31 Mar 2026 01:19:17 +0000</pubDate></item><item><title>2026-03-30 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/22</link><description>2026-03-30 AI 早报 📅 2026-03-30 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-30 01:22:07 📰 今日要闻 1. 📰 STADLER reshapes knowledge work at a 230-year-old company 属性 内容 📅 时间 2026-03-27 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-03-30 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-30 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-30 01:22:07</p>
@@ -41960,7 +41960,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/22</guid><pubDate>Mon, 30 Mar 2026 01:22:07 +0000</pubDate></item><item><title>2026-03-28 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-19/</link><description>2026-03-28 AI 早报 📅 2026-03-28 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-28 01:11:49 📰 今日要闻 1. 📰 STADLER reshapes knowledge work at a 230-year-old company 属性 内容 📅 时间 2026-03-27 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-03-28 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/22</guid><pubDate>Mon, 30 Mar 2026 01:22:07 +0000</pubDate></item><item><title>2026-03-28 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/19</link><description>2026-03-28 AI 早报 📅 2026-03-28 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-28 01:11:49 📰 今日要闻 1. 📰 STADLER reshapes knowledge work at a 230-year-old company 属性 内容 📅 时间 2026-03-27 🏷️ 分类 🤖 AI 模型 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees. 下一条 → | ↑ 返回顶…</description><content:encoded><![CDATA[<h1>2026-03-28 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-28 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-28 01:11:49</p>
@@ -42674,7 +42674,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/19</guid><pubDate>Sat, 28 Mar 2026 01:11:50 +0000</pubDate></item><item><title>2026-03-27 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-18/</link><description>2026-03-27 AI 早报 📅 2026-03-27 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-27 01:18:09 📰 今日要闻 1. 📰 Inside our approach to the Model Spec 属性 内容 📅 时间 2026-03-25 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advanc…</description><content:encoded><![CDATA[<h1>2026-03-27 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/19</guid><pubDate>Sat, 28 Mar 2026 01:11:50 +0000</pubDate></item><item><title>2026-03-27 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/18</link><description>2026-03-27 AI 早报 📅 2026-03-27 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-27 01:18:09 📰 今日要闻 1. 📰 Inside our approach to the Model Spec 属性 内容 📅 时间 2026-03-25 🏷️ 分类 🤖 AI 模型 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advanc…</description><content:encoded><![CDATA[<h1>2026-03-27 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-27 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-27 01:18:09</p>
@@ -43385,7 +43385,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/18</guid><pubDate>Fri, 27 Mar 2026 01:18:09 +0000</pubDate></item><item><title>2026-03-25 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-16/</link><description>2026-03-25 AI 早报 📅 2026-03-25 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-25 01:12:42 📰 今日要闻 1. 🔥 Helping developers build safer AI experiences for teens 属性 内容 📅 时间 2026-03-24 🏷️ 分类 🤖 AI 模型 🚀 产品发布 🎨 前端 UI 📊 重要性 🔥 重要 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risk…</description><content:encoded><![CDATA[<h1>2026-03-25 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/18</guid><pubDate>Fri, 27 Mar 2026 01:18:09 +0000</pubDate></item><item><title>2026-03-25 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/16</link><description>2026-03-25 AI 早报 📅 2026-03-25 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-25 01:12:42 📰 今日要闻 1. 🔥 Helping developers build safer AI experiences for teens 属性 内容 📅 时间 2026-03-24 🏷️ 分类 🤖 AI 模型 🚀 产品发布 🎨 前端 UI 📊 重要性 🔥 重要 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risk…</description><content:encoded><![CDATA[<h1>2026-03-25 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-25 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-25 01:12:42</p>
@@ -44099,7 +44099,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/16</guid><pubDate>Wed, 25 Mar 2026 01:12:42 +0000</pubDate></item><item><title>2026-03-24 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-15/</link><description>2026-03-24 AI 早报 📅 2026-03-24 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-24 01:07:18 📰 今日要闻 1. 📰 Creating with Sora Safely 属性 内容 📅 时间 2026-03-23 🏷️ 分类 🤖 AI 模型 🚀 产品发布 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora a…</description><content:encoded><![CDATA[<h1>2026-03-24 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/16</guid><pubDate>Wed, 25 Mar 2026 01:12:42 +0000</pubDate></item><item><title>2026-03-24 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/15</link><description>2026-03-24 AI 早报 📅 2026-03-24 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-24 01:07:18 📰 今日要闻 1. 📰 Creating with Sora Safely 属性 内容 📅 时间 2026-03-23 🏷️ 分类 🤖 AI 模型 🚀 产品发布 💻 开发工具 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora a…</description><content:encoded><![CDATA[<h1>2026-03-24 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-24 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-24 01:07:18</p>
@@ -44813,7 +44813,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/15</guid><pubDate>Tue, 24 Mar 2026 01:07:18 +0000</pubDate></item><item><title>2026-03-23 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-14/</link><description>2026-03-23 AI 早报 📅 2026-03-23 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-23 01:14:58 📰 今日要闻 1. 📰 How we monitor internal coding agents for misalignment 属性 内容 📅 时间 2026-03-19 🏷️ 分类 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks…</description><content:encoded><![CDATA[<h1>2026-03-23 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/15</guid><pubDate>Tue, 24 Mar 2026 01:07:18 +0000</pubDate></item><item><title>2026-03-23 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/14</link><description>2026-03-23 AI 早报 📅 2026-03-23 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-23 01:14:58 📰 今日要闻 1. 📰 How we monitor internal coding agents for misalignment 属性 内容 📅 时间 2026-03-19 🏷️ 分类 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks…</description><content:encoded><![CDATA[<h1>2026-03-23 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-23 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-23 01:14:58</p>
@@ -45524,7 +45524,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/14</guid><pubDate>Mon, 23 Mar 2026 01:14:59 +0000</pubDate></item><item><title>2026-03-22 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-13/</link><description>2026-03-22 AI 早报 📅 2026-03-22 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-22 01:13:48 📰 今日要闻 1. 📰 How we monitor internal coding agents for misalignment 属性 内容 📅 时间 2026-03-19 🏷️ 分类 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks…</description><content:encoded><![CDATA[<h1>2026-03-22 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/14</guid><pubDate>Mon, 23 Mar 2026 01:14:59 +0000</pubDate></item><item><title>2026-03-22 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/13</link><description>2026-03-22 AI 早报 📅 2026-03-22 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-22 01:13:48 📰 今日要闻 1. 📰 How we monitor internal coding agents for misalignment 属性 内容 📅 时间 2026-03-19 🏷️ 分类 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks…</description><content:encoded><![CDATA[<h1>2026-03-22 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-22 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-22 01:13:48</p>
@@ -46238,7 +46238,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/13</guid><pubDate>Sun, 22 Mar 2026 01:13:48 +0000</pubDate></item><item><title>2026-03-21 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-12/</link><description>2026-03-21 AI 早报 📅 2026-03-21 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-21 01:05:44 📰 今日要闻 1. 📰 How we monitor internal coding agents for misalignment 属性 内容 📅 时间 2026-03-19 🏷️ 分类 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks…</description><content:encoded><![CDATA[<h1>2026-03-21 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/13</guid><pubDate>Sun, 22 Mar 2026 01:13:48 +0000</pubDate></item><item><title>2026-03-21 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/12</link><description>2026-03-21 AI 早报 📅 2026-03-21 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-21 01:05:44 📰 今日要闻 1. 📰 How we monitor internal coding agents for misalignment 属性 内容 📅 时间 2026-03-19 🏷️ 分类 🔬 研究论文 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks…</description><content:encoded><![CDATA[<h1>2026-03-21 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-21 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-21 01:05:44</p>
@@ -46952,7 +46952,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/12</guid><pubDate>Sat, 21 Mar 2026 01:05:44 +0000</pubDate></item><item><title>2026-03-19 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-10/</link><description>2026-03-19 AI 早报 📅 2026-03-19 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-19 01:14:00 📰 今日要闻 1. 📰 Introducing GPT-5.4 mini and nano 属性 内容 📅 时间 2026-03-17 🏷️ 分类 🤖 AI 模型 💻 开发工具 ⚙️ 后端架构 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-ag…</description><content:encoded><![CDATA[<h1>2026-03-19 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/12</guid><pubDate>Sat, 21 Mar 2026 01:05:44 +0000</pubDate></item><item><title>2026-03-19 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/10</link><description>2026-03-19 AI 早报 📅 2026-03-19 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-19 01:14:00 📰 今日要闻 1. 📰 Introducing GPT-5.4 mini and nano 属性 内容 📅 时间 2026-03-17 🏷️ 分类 🤖 AI 模型 💻 开发工具 ⚙️ 后端架构 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-ag…</description><content:encoded><![CDATA[<h1>2026-03-19 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-19 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-19 01:14:00</p>
@@ -47641,7 +47641,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/10</guid><pubDate>Thu, 19 Mar 2026 01:14:00 +0000</pubDate></item><item><title>2026-03-18 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-9/</link><description>2026-03-18 AI 早报 📅 2026-03-18 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-18 01:14:42 📰 今日要闻 1. 📰 Introducing GPT-5.4 mini and nano 属性 内容 📅 时间 2026-03-17 🏷️ 分类 🤖 AI 模型 💻 开发工具 ⚙️ 后端架构 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-ag…</description><content:encoded><![CDATA[<h1>2026-03-18 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/10</guid><pubDate>Thu, 19 Mar 2026 01:14:00 +0000</pubDate></item><item><title>2026-03-18 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/9</link><description>2026-03-18 AI 早报 📅 2026-03-18 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-18 01:14:42 📰 今日要闻 1. 📰 Introducing GPT-5.4 mini and nano 属性 内容 📅 时间 2026-03-17 🏷️ 分类 🤖 AI 模型 💻 开发工具 ⚙️ 后端架构 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-ag…</description><content:encoded><![CDATA[<h1>2026-03-18 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-18 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-18 01:14:42</p>
@@ -48330,7 +48330,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/9</guid><pubDate>Wed, 18 Mar 2026 01:14:42 +0000</pubDate></item><item><title>2026-03-17 AI 早报</title><link>https://gaohui0611.github.io/ai-daily/issue-8/</link><description>2026-03-17 AI 早报 📅 2026-03-17 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-17 02:02:44 📰 今日要闻 1. 📰 Why Codex Security Doesn’t Include a SAST Report 属性 内容 📅 时间 2026-03-16 🏷️ 分类 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vuln…</description><content:encoded><![CDATA[<h1>2026-03-17 AI 早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/9</guid><pubDate>Wed, 18 Mar 2026 01:14:42 +0000</pubDate></item><item><title>2026-03-17 AI 早报</title><link>https://github.com/gaohui0611/ai-daily/issues/8</link><description>2026-03-17 AI 早报 📅 2026-03-17 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间：2026-03-17 02:02:44 📰 今日要闻 1. 📰 Why Codex Security Doesn’t Include a SAST Report 属性 内容 📅 时间 2026-03-16 🏷️ 分类 🔒 安全隐私 📊 重要性 📰 资讯 ⏱️ 阅读 &lt; 1 分钟 🔗 原文 📖 查看原始文章 → 💬 A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vuln…</description><content:encoded><![CDATA[<h1>2026-03-17 AI 早报</h1>
 <blockquote>
 <p>📅 2026-03-17 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间：2026-03-17 02:02:44</p>
@@ -49048,7 +49048,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请点击每条新闻的「查看原始文章」链接访问原文。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/8</guid><pubDate>Tue, 17 Mar 2026 02:02:44 +0000</pubDate></item><item><title>2026-03-17 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-7/</link><description>2026-03-17 AI早报 📅 2026-03-17 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-17 01:10:05 📰 今日要闻 1. Why Codex Security Doesn’t Include a SAST Report 属性 内容 📅 时间 2026-03-16 🏷️ 来源 OpenAI Blog 💬 A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positive…</description><content:encoded><![CDATA[<h1>2026-03-17 AI早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/8</guid><pubDate>Tue, 17 Mar 2026 02:02:44 +0000</pubDate></item><item><title>2026-03-17 AI早报</title><link>https://github.com/gaohui0611/ai-daily/issues/7</link><description>2026-03-17 AI早报 📅 2026-03-17 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-17 01:10:05 📰 今日要闻 1. Why Codex Security Doesn’t Include a SAST Report 属性 内容 📅 时间 2026-03-16 🏷️ 来源 OpenAI Blog 💬 A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positive…</description><content:encoded><![CDATA[<h1>2026-03-17 AI早报</h1>
 <blockquote>
 <p>📅 2026-03-17 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间: 2026-03-17 01:10:05</p>
@@ -49610,7 +49610,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请访问原始链接。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/7</guid><pubDate>Tue, 17 Mar 2026 01:10:05 +0000</pubDate></item><item><title>2026-03-16 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-6/</link><description>2026-03-16 AI早报 📅 2026-03-16 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-16 01:19:13 📰 今日要闻 1. Rakuten fixes issues twice as fast with Codex 属性 内容 📅 时间 2026-03-11 🏷️ 来源 OpenAI Blog 💬 Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks. 2. Designing A…</description><content:encoded><![CDATA[<h1>2026-03-16 AI早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/7</guid><pubDate>Tue, 17 Mar 2026 01:10:05 +0000</pubDate></item><item><title>2026-03-16 AI早报</title><link>https://github.com/gaohui0611/ai-daily/issues/6</link><description>2026-03-16 AI早报 📅 2026-03-16 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-16 01:19:13 📰 今日要闻 1. Rakuten fixes issues twice as fast with Codex 属性 内容 📅 时间 2026-03-11 🏷️ 来源 OpenAI Blog 💬 Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks. 2. Designing A…</description><content:encoded><![CDATA[<h1>2026-03-16 AI早报</h1>
 <blockquote>
 <p>📅 2026-03-16 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间: 2026-03-16 01:19:13</p>
@@ -50172,7 +50172,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请访问原始链接。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/6</guid><pubDate>Mon, 16 Mar 2026 01:19:13 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-5/</link><description>2026-03-15 AI早报 📅 2026-03-15 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-15 03:57:44 📰 今日要闻 1. Rakuten fixes issues twice as fast with Codex 属性 内容 📅 时间 2026-03-11 🏷️ 来源 OpenAI Blog 💬 Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks. 2. Designing A…</description><content:encoded><![CDATA[<h1>2026-03-15 AI早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/6</guid><pubDate>Mon, 16 Mar 2026 01:19:13 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://github.com/gaohui0611/ai-daily/issues/5</link><description>2026-03-15 AI早报 📅 2026-03-15 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-15 03:57:44 📰 今日要闻 1. Rakuten fixes issues twice as fast with Codex 属性 内容 📅 时间 2026-03-11 🏷️ 来源 OpenAI Blog 💬 Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks. 2. Designing A…</description><content:encoded><![CDATA[<h1>2026-03-15 AI早报</h1>
 <blockquote>
 <p>📅 2026-03-15 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间: 2026-03-15 03:57:44</p>
@@ -50734,7 +50734,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请访问原始链接。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/5</guid><pubDate>Sun, 15 Mar 2026 03:57:44 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-4/</link><description>2026-03-15 AI早报 📅 2026-03-15 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-15 02:36:52 📰 今日要闻 1. Rakuten fixes issues twice as fast with Codex 属性 内容 📅 时间 2026-03-11 🏷️ 来源 OpenAI Blog 💬 Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks. 2. Designing A…</description><content:encoded><![CDATA[<h1>2026-03-15 AI早报</h1>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/5</guid><pubDate>Sun, 15 Mar 2026 03:57:44 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://github.com/gaohui0611/ai-daily/issues/4</link><description>2026-03-15 AI早报 📅 2026-03-15 | 自动抓取自各大 AI 资讯源 ⏰ 更新时间: 2026-03-15 02:36:52 📰 今日要闻 1. Rakuten fixes issues twice as fast with Codex 属性 内容 📅 时间 2026-03-11 🏷️ 来源 OpenAI Blog 💬 Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks. 2. Designing A…</description><content:encoded><![CDATA[<h1>2026-03-15 AI早报</h1>
 <blockquote>
 <p>📅 2026-03-15 | 自动抓取自各大 AI 资讯源
 ⏰ 更新时间: 2026-03-15 02:36:52</p>
@@ -51195,7 +51195,7 @@
 </tr>
 </tbody></table><hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考。如需了解更多，请访问原始链接。</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/4</guid><pubDate>Sun, 15 Mar 2026 02:36:52 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-3/</link><description>今日要闻 📅 2026-03-15 | 自动抓取自各大 AI 资讯源 1. Rakuten fixes issues twice as fast with Codex 来源: OpenAI Blog 2. Designing AI agents to resist prompt injection 来源: OpenAI Blog 3. Wayfair boosts catalog accuracy and support speed with OpenAI 来源: OpenAI Blog 4. How AI is helping improve heart health in rural Australia 来源: Google AI Blog 5. Gemini in Google Sheets just…</description><content:encoded><![CDATA[<h2>今日要闻</h2>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/4</guid><pubDate>Sun, 15 Mar 2026 02:36:52 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://github.com/gaohui0611/ai-daily/issues/3</link><description>今日要闻 📅 2026-03-15 | 自动抓取自各大 AI 资讯源 1. Rakuten fixes issues twice as fast with Codex 来源: OpenAI Blog 2. Designing AI agents to resist prompt injection 来源: OpenAI Blog 3. Wayfair boosts catalog accuracy and support speed with OpenAI 来源: OpenAI Blog 4. How AI is helping improve heart health in rural Australia 来源: Google AI Blog 5. Gemini in Google Sheets just…</description><content:encoded><![CDATA[<h2>今日要闻</h2>
 <blockquote>
 <p>📅 2026-03-15 | 自动抓取自各大 AI 资讯源</p>
 </blockquote>
@@ -51258,7 +51258,7 @@
 </ul>
 <hr>
 <p><em>本早报由脚本自动抓取生成，内容仅供参考</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/3</guid><pubDate>Sun, 15 Mar 2026 01:58:39 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-2/</link><description>今日要闻 OpenAI 发布 GPT-4.5 OpenAI 今日正式发布 GPT-4.5 模型，在推理能力和多模态理解方面有显著提升。 Google Gemini 2.0 更新 Google 宣布 Gemini 2.0 正式上线，支持更长的上下文窗口和更快的响应速度。 开源项目推荐 Ollama v0.1.30 本地大模型运行工具 Ollama 发布新版本，支持更多开源模型。 LangChain 0.1.0 LangChain 发布 1.0 正式版，提供更稳定的 API 接口。 工具推荐 Claude Code Anthropic 推出的 AI 编程助手，支持终端操作和代码生成。 本早报由 AI 辅助生成，仅供参考</description><content:encoded><![CDATA[<h2>今日要闻</h2>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/3</guid><pubDate>Sun, 15 Mar 2026 01:58:39 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://github.com/gaohui0611/ai-daily/issues/2</link><description>今日要闻 OpenAI 发布 GPT-4.5 OpenAI 今日正式发布 GPT-4.5 模型，在推理能力和多模态理解方面有显著提升。 Google Gemini 2.0 更新 Google 宣布 Gemini 2.0 正式上线，支持更长的上下文窗口和更快的响应速度。 开源项目推荐 Ollama v0.1.30 本地大模型运行工具 Ollama 发布新版本，支持更多开源模型。 LangChain 0.1.0 LangChain 发布 1.0 正式版，提供更稳定的 API 接口。 工具推荐 Claude Code Anthropic 推出的 AI 编程助手，支持终端操作和代码生成。 本早报由 AI 辅助生成，仅供参考</description><content:encoded><![CDATA[<h2>今日要闻</h2>
 <h3>OpenAI 发布 GPT-4.5</h3>
 <p>OpenAI 今日正式发布 GPT-4.5 模型，在推理能力和多模态理解方面有显著提升。</p>
 <h3>Google Gemini 2.0 更新</h3>
@@ -51273,7 +51273,7 @@
 <p>Anthropic 推出的 AI 编程助手，支持终端操作和代码生成。</p>
 <hr>
 <p><em>本早报由 AI 辅助生成，仅供参考</em></p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/2</guid><pubDate>Sun, 15 Mar 2026 01:32:00 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://gaohui0611.github.io/ai-daily/issue-1/</link><description>今日要闻 🚀 OpenAI 发布 GPT-4.5 OpenAI 宣布 GPT-4.5 正式发布，性能相比 GPT-4 提升 30%，推理速度更快，成本降低 20%。 🔥 Claude 3.5 Sonnet 更新 Anthropic 发布 Claude 3.5 Sonnet 更新版本，在代码生成和复杂推理任务上表现更加出色。 📱 Google Gemini 移动端更新 Google 发布 Gemini 移动端重大更新，支持更多语言和离线模式。 开源项目推荐 1. awesome-ai-tools AI 工具合集，收录了 500+ AI 工具和资源 2. local-llm-guide 本地部署大语言模型完整指南 工具推荐 🔧 Cursor AI AI 驱动的代码编辑器，支持多模型切换 🎨 Midjourney…</description><content:encoded><![CDATA[<h2>今日要闻</h2>
+]]></content:encoded><guid isPermaLink="false">https://github.com/gaohui0611/ai-daily/issues/2</guid><pubDate>Sun, 15 Mar 2026 01:32:00 +0000</pubDate></item><item><title>2026-03-15 AI早报</title><link>https://github.com/gaohui0611/ai-daily/issues/1</link><description>今日要闻 🚀 OpenAI 发布 GPT-4.5 OpenAI 宣布 GPT-4.5 正式发布，性能相比 GPT-4 提升 30%，推理速度更快，成本降低 20%。 🔥 Claude 3.5 Sonnet 更新 Anthropic 发布 Claude 3.5 Sonnet 更新版本，在代码生成和复杂推理任务上表现更加出色。 📱 Google Gemini 移动端更新 Google 发布 Gemini 移动端重大更新，支持更多语言和离线模式。 开源项目推荐 1. awesome-ai-tools AI 工具合集，收录了 500+ AI 工具和资源 2. local-llm-guide 本地部署大语言模型完整指南 工具推荐 🔧 Cursor AI AI 驱动的代码编辑器，支持多模型切换 🎨 Midjourney…</description><content:encoded><![CDATA[<h2>今日要闻</h2>
 <h3>🚀 OpenAI 发布 GPT-4.5</h3>
 <p>OpenAI 宣布 GPT-4.5 正式发布，性能相比 GPT-4 提升 30%，推理速度更快，成本降低 20%。</p>
 <h3>🔥 Claude 3.5 Sonnet 更新</h3>
